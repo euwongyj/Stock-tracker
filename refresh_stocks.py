@@ -24,7 +24,7 @@ STOCKS = {
     "Keppel REIT": "K71U.SI",
     "Lendlease REIT": "JYEU.SI",
     "Lion-OCBC Securities Hang Seng Tech ETF": "HST.SI",
-    "Lion-Phillip S-REIT ETF": "CLR.SI"
+    "Lion-Phillip S-REIT ETF": "CLR.SI",
     "Mapletree Industrial Trust": "ME8U.SI",
     "Mapletree Logistics Trust": "M44U.SI",
     "NetLink NBN Trust": "CJLU.SI",
