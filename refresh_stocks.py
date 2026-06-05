@@ -23,6 +23,8 @@ STOCKS = {
     "Keppel DC REIT": "AJBU.SI",
     "Keppel REIT": "K71U.SI",
     "Lendlease REIT": "JYEU.SI",
+    "Lion-OCBC Securities Hang Seng Tech ETF": "HST.SI",
+    "Lion-Phillip S-REIT ETF": "CLR.SI"
     "Mapletree Industrial Trust": "ME8U.SI",
     "Mapletree Logistics Trust": "M44U.SI",
     "NetLink NBN Trust": "CJLU.SI",
@@ -31,7 +33,10 @@ STOCKS = {
     "Singapore Land Group": "U06.SI",
     "Straits Trading": "S20.SI",
     "UOB": "U11.SI",
-    "Wilmar": "F34.SI"
+    "Wilmar": "F34.SI",
+    "Seatrium": "5E2.SI",
+    "Sembcorp Ind": "U96.SI",
+    "UMS": "558.SI"
 }
 
 # ----------------------------
