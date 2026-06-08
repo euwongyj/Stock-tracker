@@ -1,46 +1,42 @@
 import yfinance as yf
 import pandas as pd
-from datetime import datetime
+import os
+from datetime import datetime, timedelta
 
 # ----------------------------
-# STOCK LIST (Name → Ticker)
+# GET SGX STOCK LIST (AUTO + CACHED HOURLY)
 # ----------------------------
-STOCKS = {
-    "Boustead": "F9D.SI",
-    "CapitaLand Investment": "9CI.SI",
-    "CapLand Ascendas REIT": "A17U.SI",
-    "CapLand Ascott Trust": "HMN.SI",
-    "CapLand Integrated Commercial Trust": "C38U.SI",
-    "DBS": "D05.SI",
-    "Far East Hospitality Trust": "Q5T.SI",
-    "Far East Orchard": "O10.SI",
-    "Frasers Centrepoint Trust": "J69U.SI",
-    "GuocoLand": "F17.SI",
-    "Haw Par": "H02.SI",
-    "Hong Leong Finance": "S41.SI",
-    "JB Foods": "BEW.SI",
-    "Keppel Corp": "BN4.SI",
-    "Keppel DC REIT": "AJBU.SI",
-    "Keppel REIT": "K71U.SI",
-    "Lendlease REIT": "JYEU.SI",
-    "Lion-OCBC Securities Hang Seng Tech ETF": "HST.SI",
-    "Lion-Phillip S-REIT ETF": "CLR.SI",
-    "Mapletree Industrial Trust": "ME8U.SI",
-    "Mapletree Logistics Trust": "M44U.SI",
-    "NetLink NBN Trust": "CJLU.SI",
-    "OCBC": "O39.SI",
-    "Olam Group": "VC2.SI",
-    "Singapore Land Group": "U06.SI",
-    "Straits Trading": "S20.SI",
-    "UOB": "U11.SI",
-    "Wilmar": "F34.SI",
-    "Seatrium": "5E2.SI",
-    "Sembcorp Ind": "U96.SI",
-    "UMS": "558.SI"
-}
+CACHE_FILE = "sgx_cache.csv"
+
+def get_sgx_stocks():
+    # refresh every 1 hour
+    if os.path.exists(CACHE_FILE):
+        age = datetime.now() - datetime.fromtimestamp(os.path.getmtime(CACHE_FILE))
+        if age < timedelta(hours=1):
+            df = pd.read_csv(CACHE_FILE)
+            return dict(zip(df["Name"], df["Ticker"]))
+
+    print("🌐 Refreshing SGX stock list...")
+
+    url = "https://stockanalysis.com/list/singapore-exchange/"
+    df = pd.read_html(url)[0]
+
+    df["Ticker"] = df["Symbol"].astype(str) + ".SI"
+
+    out = df[["Company Name", "Ticker"]].rename(
+        columns={"Company Name": "Name"}
+    )
+
+    out.to_csv(CACHE_FILE, index=False)
+
+    return dict(zip(out["Name"], out["Ticker"]))
+
+
+STOCKS = get_sgx_stocks()
+print(f"📋 Loaded {len(STOCKS)} SGX stocks")
 
 # ----------------------------
-# FETCH DATA
+# FETCH DATA (YAHOO FINANCE)
 # ----------------------------
 print("📡 Fetching live stock data...\n")
 
@@ -72,7 +68,7 @@ for name, ticker in STOCKS.items():
         print(f"❌ {name} ({ticker}) — {e}")
 
 # ----------------------------
-# EXPORT CSV (FOR GOOGLE SHEETS)
+# EXPORT CSV
 # ----------------------------
 df = pd.DataFrame(
     data,
