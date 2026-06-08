@@ -33,7 +33,16 @@ def get_sgx_stocks():
 
 
 STOCKS = get_sgx_stocks()
-print(f"📋 Loaded {len(STOCKS)} SGX stocks")
+# ----------------------------
+# ADD MISSING ETFS (MANUAL OVERRIDE)
+# ----------------------------
+ETF_EXTRA = {
+    "Lion-OCBC Hang Seng TECH ETF": "HST.SI",
+    "Lion-Phillip S-REIT ETF": "CLR.SI"
+}
+
+STOCKS.update(ETF_EXTRA)
+print(f"📋 Loaded {len(STOCKS)} SGX stocks + ETFS")
 
 # ----------------------------
 # FETCH DATA (YAHOO FINANCE)
