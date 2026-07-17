@@ -1,448 +1,438 @@
 Name,Ticker,Price,Previous Close,Market Cap (B),P/E,Last Updated
-Tencent Holdings Limited,HTCD.SI,7.59,7.95,68.32,1.65,2026-07-17 06:15:16
-HSBC Holdings plc,HSHD.SI,5.16,5.17,88.48,3.29,2026-07-17 06:15:16
-Alibaba Group Holding Limited,HBBD.SI,3.68,3.85,70.56,3.5,2026-07-17 06:15:16
-PetroChina Company Limited,HPCD.SI,3.1,3.13,567.37,19.38,2026-07-17 06:15:16
-Bank of China Limited,HBND.SI,0.83,0.835,267.44,5.93,2026-07-17 06:15:16
-"Contemporary Amperex Technology Co., Limited",HCCD.SI,3.31,3.39,15.31,0.99,2026-07-17 06:15:16
-China Mobile Limited,HCMD.SI,2.63,2.62,,,2026-07-17 06:15:16
-DBS Group Holdings Ltd,D05.SI,71.99,72.48,204.28,18.8,2026-07-17 06:15:16
-"Ping An Insurance (Group) Company of China, Ltd.",HPAD.SI,4.45,4.49,80.58,3.22,2026-07-17 06:15:16
-BYD Company Limited,HYDD.SI,1.44,1.47,13.13,2.53,2026-07-17 06:15:16
-Semiconductor Manufacturing International Corporation,HSMD.SI,2.24,2.48,,,2026-07-17 06:15:16
-Delta Electronics (Thailand) Public Company Limited,TDED.SI,11.49,11.69,143.32,127.67,2026-07-17 06:15:16
-Oversea-Chinese Banking Corporation Limited,O39.SI,28.52,28.78,128.05,17.28,2026-07-17 06:15:16
-Xiaomi Corporation,HXXD.SI,2.19,2.26,,,2026-07-17 06:15:16
-Meituan,HMTD.SI,2.7,2.9,,,2026-07-17 06:15:16
-United Overseas Bank Limited,U11.SI,42.5,43.5,70.2,15.45,2026-07-17 06:15:16
-Singapore Telecommunications Limited,Z77.SI,4.43,4.38,73.15,13.03,2026-07-17 06:15:16
-PT Bank Central Asia Tbk,IBKD.SI,0.915,0.88,112.43,30.5,2026-07-17 06:15:16
-"JD.com, Inc.",HJDD.SI,1.91,1.92,5.16,2.17,2026-07-17 06:15:16
-"Baidu, Inc.",HBUD.SI,1.74,1.82,,,2026-07-17 06:15:16
-Prudential plc,K6S.SI,14.2,14.2,35.38,9.22,2026-07-17 06:15:16
-Zijin Gold International Company Limited,HZGD.SI,1.56,1.7,,,2026-07-17 06:15:16
-Advanced Info Service Public Company Limited,TADD.SI,1.46,1.43,43.42,20.86,2026-07-17 06:15:16
-Pop Mart International Group Limited,HPPD.SI,1.37,1.37,,,2026-07-17 06:15:16
-Gulf Development Public Company Limited,TGUD.SI,2.42,2.42,,,2026-07-17 06:15:16
-Airports of Thailand Public Company Limited,TATD.SI,2.45,2.45,35.0,49.0,2026-07-17 06:15:16
-Trip.com Group Limited,HTGD.SI,1.11,1.13,,,2026-07-17 06:15:16
-Geely Automobile Holdings Limited,HGMD.SI,1.5,1.6,,,2026-07-17 06:15:16
-Kuaishou Technology,HKUD.SI,1.42,1.55,,,2026-07-17 06:15:16
-Singapore Technologies Engineering Ltd,S63.SI,10.51,10.7,32.79,70.07,2026-07-17 06:15:16
-Singapore Exchange Limited,S68.SI,23.96,23.86,25.6,39.28,2026-07-17 06:15:16
-Wilmar International Limited,F34.SI,3.85,3.9,24.04,13.28,2026-07-17 06:15:16
-Singapore Airlines Limited,C6L.SI,7.65,7.61,24.1,20.13,2026-07-17 06:15:16
-IHH Healthcare Berhad,Q0F.SI,2.78,2.78,25.26,34.75,2026-07-17 06:15:16
-Jardine Matheson Holdings Limited,J36.SI,62.29,62.25,18.32,16.52,2026-07-17 06:15:16
-PTT Exploration and Production Public Company Limited,TPED.SI,5.58,5.56,22.15,10.33,2026-07-17 06:15:16
-Kasikornbank Public Company Limited,TKKD.SI,8.99,8.87,21.3,10.96,2026-07-17 06:15:16
-Hongkong Land Holdings Limited,H78.SI,7.54,7.54,16.1,13.0,2026-07-17 06:15:16
-Keppel Ltd.,BN4.SI,11.24,11.46,20.26,20.07,2026-07-17 06:15:16
-CapitaLand Integrated Commercial Trust,C38U.SI,2.45,2.45,19.31,18.85,2026-07-17 06:15:16
-Great Eastern Holdings Limited,G07.SI,19.35,19.53,18.32,15.36,2026-07-17 06:15:16
-Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,ITKD.SI,0.92,0.92,,,2026-07-17 06:15:16
-NIO Inc.,NIO.SI,4.82,5.1,12.27,,2026-07-17 06:15:16
-CP ALL Public Company Limited,TCPD.SI,1.8,1.82,16.04,13.85,2026-07-17 06:15:16
-Yangzijiang Shipbuilding (Holdings) Ltd.,SO7.SI,17.94,17.94,74.83,9.15,2026-07-17 06:15:16
-CapitaLand Investment Limited,9CI.SI,2.5,2.53,12.48,83.33,2026-07-17 06:15:16
-CapitaLand Ascendas REIT,A17U.SI,2.51,2.48,12.54,14.76,2026-07-17 06:15:16
-Bangkok Dusit Medical Services Public Company Limited,TBDD.SI,1.51,1.49,,,2026-07-17 06:15:16
-The Siam Cement Public Company Limited,TSCD.SI,0.975,0.985,2.91,19.5,2026-07-17 06:15:16
-Horizon Robotics,HHZD.SI,0.705,0.755,10.27,,2026-07-17 06:15:16
-Thai Beverage Public Company Limited,Y92.SI,0.445,0.44,11.18,11.12,2026-07-17 06:15:16
-"Laopu Gold Co., Ltd.",HLPD.SI,1.16,1.23,0.21,0.21,2026-07-17 06:15:16
-Jardine Cycle & Carriage Limited,C07.SI,26.99,27.16,10.67,8.28,2026-07-17 06:15:16
-Sembcorp Industries Ltd,U96.SI,5.45,5.48,9.7,9.91,2026-07-17 06:15:16
-UOL Group Limited,U14.SI,9.46,9.68,8.01,16.6,2026-07-17 06:15:16
-Genting Singapore Limited,G13.SI,0.63,0.63,7.62,21.0,2026-07-17 06:15:16
-Ubtech Robotics Corp Ltd,HUUD.SI,1.35,1.46,,,2026-07-17 06:15:16
-Mapletree Pan Asia Commercial Trust,N2IU.SI,1.35,1.33,7.13,27.0,2026-07-17 06:15:16
-City Developments Limited,C09.SI,7.67,7.79,6.85,11.28,2026-07-17 06:15:16
-Charoen Pokphand Foods Public Company Limited,TPFD.SI,1.7,1.7,13.07,17.0,2026-07-17 06:15:16
-SATS Ltd.,S58.SI,4.57,4.59,6.79,24.05,2026-07-17 06:15:16
-Seatrium Limited,5E2.SI,1.97,2.0,6.68,21.89,2026-07-17 06:15:16
-DFI Retail Group Holdings Limited,D01.SI,3.57,3.62,4.83,21.0,2026-07-17 06:15:16
-Mapletree Logistics Trust,M44U.SI,1.22,1.21,6.25,24.4,2026-07-17 06:15:16
-Keppel DC REIT,AJBU.SI,2.32,2.32,5.68,12.21,2026-07-17 06:15:16
-PT Indofood CBP Sukses Makmur Tbk,IICD.SI,0.945,0.945,11.02,15.75,2026-07-17 06:15:16
-Mapletree Industrial Trust,ME8U.SI,1.93,1.92,5.51,27.57,2026-07-17 06:15:16
-First Resources Limited,EB5.SI,3.33,3.46,5.15,11.1,2026-07-17 06:15:16
-Emperador Inc.,EMI.SI,0.34,0.34,5.33,34.0,2026-07-17 06:15:16
-China Medical System Holdings Limited,8A8.SI,2.17,2.17,5.28,18.08,2026-07-17 06:15:16
-Tianjin Pharmaceutical Da Ren Tang Group Corporation Limited,T14.SI,2.79,2.84,3.6,6.64,2026-07-17 06:15:16
-Sheng Siong Group Ltd,OV8.SI,3.26,3.3,4.9,32.6,2026-07-17 06:15:16
-Venture Corporation Limited,V03.SI,16.05,16.38,4.61,20.32,2026-07-17 06:15:16
-Singapore Land Group Limited,U06.SI,3.16,3.21,4.53,16.63,2026-07-17 06:15:16
-Frasers Centrepoint Trust,J69U.SI,2.25,2.25,4.59,20.45,2026-07-17 06:15:16
-Olam Group Limited,VC2.SI,1.2,1.2,4.53,30.0,2026-07-17 06:15:16
-Suntec Real Estate Investment Trust,T82U.SI,1.53,1.51,4.52,30.6,2026-07-17 06:15:16
-Keppel REIT,K71U.SI,0.885,0.88,4.4,8.05,2026-07-17 06:15:16
-UOB-Kay Hian Holdings Limited,U10.SI,4.19,4.28,4.12,16.76,2026-07-17 06:15:16
-Frasers Property Limited,TQ5.SI,1.06,1.06,4.16,26.5,2026-07-17 06:15:16
-NetLink NBN Trust,CJLU.SI,0.98,0.98,3.82,49.0,2026-07-17 06:15:16
-Haw Par Corporation Limited,H02.SI,16.27,16.76,3.6,13.56,2026-07-17 06:15:16
-SIA Engineering Company Limited,S59.SI,3.27,3.3,3.67,21.8,2026-07-17 06:15:16
-Frasers Logistics & Commercial Trust,BUOU.SI,0.975,0.965,3.71,16.25,2026-07-17 06:15:16
-"AvePoint, Inc.",AVP.SI,16.73,16.9,3.55,64.35,2026-07-17 06:15:16
-Golden Agri-Resources Ltd,E5H.SI,0.275,0.275,3.49,6.88,2026-07-17 06:15:16
-CapitaLand Ascott Trust,HMN.SI,0.905,0.9,3.48,11.31,2026-07-17 06:15:16
-Keppel Infrastructure Trust,A7RU.SI,0.525,0.53,3.2,26.25,2026-07-17 06:15:16
-Bumitama Agri Ltd.,P8Z.SI,1.74,1.81,3.02,14.5,2026-07-17 06:15:16
-AEM Holdings Ltd.,XWA.SI,4.1,4.1,1.29,102.5,2026-07-17 06:15:16
-iFAST Corporation Ltd.,AIY.SI,9.54,9.54,2.91,27.26,2026-07-17 06:15:16
-ComfortDelGro Corporation Limited,C52.SI,1.34,1.34,2.9,12.18,2026-07-17 06:15:16
-Parkway Life Real Estate Investment Trust,C2PU.SI,4.17,4.14,2.72,18.13,2026-07-17 06:15:16
-GuocoLand Limited,F17.SI,2.21,2.26,2.55,22.1,2026-07-17 06:15:16
-Hotel Properties Limited,H15.SI,4.57,4.6,2.43,,2026-07-17 06:15:16
-Shangri-La Asia Limited,S07.SI,4.28,4.28,15.24,17.12,2026-07-17 06:15:16
-UMS Integration Limited,558.SI,2.46,2.55,2.18,49.2,2026-07-17 06:15:16
-Hutchison Port Holdings Trust,NS8U.SI,0.183,0.187,1.59,18.3,2026-07-17 06:15:16
-Hong Leong Asia Ltd.,H22.SI,2.57,2.62,2.05,17.13,2026-07-17 06:15:16
-"Fraser and Neave, Limited",F99.SI,1.43,1.43,2.08,14.3,2026-07-17 06:15:16
-Yangzijiang Maritime Development Ltd.,8YZ.SI,0.57,0.57,1.99,11.4,2026-07-17 06:15:16
-Centurion Accommodation REIT,8C8U.SI,1.13,1.14,1.95,22.6,2026-07-17 06:15:16
-Lendlease Global Commercial REIT,JYEU.SI,0.57,0.57,1.9,19.0,2026-07-17 06:15:16
-ESR-REIT,9A4U.SI,2.31,2.3,1.86,231.0,2026-07-17 06:15:16
-StarHub Ltd,CC3.SI,1.02,1.02,1.76,25.5,2026-07-17 06:15:16
-The Hour Glass Limited,AGS.SI,2.74,2.74,1.75,9.79,2026-07-17 06:15:16
-Raffles Medical Group Ltd,BSL.SI,0.945,0.95,1.74,23.62,2026-07-17 06:15:16
-UltraGreen.ai Limited,ULG.SI,1.22,1.21,1.34,9.38,2026-07-17 06:15:16
-Top Glove Corporation Bhd.,BVA.SI,0.205,0.21,1.64,20.5,2026-07-17 06:15:16
-CapitaLand India Trust,CY6U.SI,1.03,1.05,1.53,4.29,2026-07-17 06:15:16
-Food Empire Holdings Limited,F03.SI,2.29,2.33,1.51,32.71,2026-07-17 06:15:16
-China Aviation Oil (Singapore) Corporation Ltd,G92.SI,1.6,1.65,1.38,9.41,2026-07-17 06:15:16
-Thomson Medical Group Limited,A50.SI,0.053,0.053,1.4,,2026-07-17 06:15:16
-Centurion Corporation Limited,OU8.SI,1.63,1.65,1.37,11.64,2026-07-17 06:15:16
-AIMS APAC REIT,O5RU.SI,1.65,1.67,1.36,12.69,2026-07-17 06:15:16
-Ho Bee Land Limited,H13.SI,2.03,2.03,1.35,13.53,2026-07-17 06:15:16
-PropNex Limited,OYY.SI,1.77,1.8,1.31,17.7,2026-07-17 06:15:16
-Pacific Century Regional Developments Limited,P15.SI,0.495,0.495,1.31,,2026-07-17 06:15:16
-Stoneweg Europe Stapled Trust,SET.SI,1.6,1.58,0.9,11.43,2026-07-17 06:15:16
-Riverstone Holdings Limited,AP4.SI,0.855,0.865,1.27,21.38,2026-07-17 06:15:16
-Starhill Global Real Estate Investment Trust,P40U.SI,0.545,0.55,1.26,9.08,2026-07-17 06:15:16
-Bukit Sembawang Estates Limited,B61.SI,4.86,4.91,1.26,9.72,2026-07-17 06:15:16
-Yanlord Land Group Limited,Z25.SI,0.645,0.655,1.25,21.5,2026-07-17 06:15:16
-Far East Hospitality Trust,Q5T.SI,0.58,0.585,1.19,58.0,2026-07-17 06:15:16
-Wing Tai Holdings Limited,W05.SI,1.57,1.57,1.2,,2026-07-17 06:15:16
-Frencken Group Limited,E28.SI,2.66,2.74,1.14,29.56,2026-07-17 06:15:16
-CapitaLand China Trust,AU8U.SI,0.655,0.66,1.15,,2026-07-17 06:15:16
-SBS Transit Ltd,S61.SI,3.65,3.69,1.14,18.25,2026-07-17 06:15:16
-First Sponsor Group Limited,ADN.SI,1.02,1.02,1.15,,2026-07-17 06:15:16
-Sri Trang Gloves (Thailand) Public Company Limited,STG.SI,0.37,0.37,1.21,,2026-07-17 06:15:16
-BRC Asia Limited,BEC.SI,4.18,4.17,1.15,11.0,2026-07-17 06:15:16
-UI Boustead Real Estate Investment Trust,UIBU.SI,0.835,0.835,1.14,16.7,2026-07-17 06:15:16
-Sri Trang Agro-Industry Public Company Limited,NC2.SI,0.695,0.7,1.07,,2026-07-17 06:15:16
-Hong Leong Finance Limited,S41.SI,2.49,2.49,1.12,17.79,2026-07-17 06:15:16
-Pan-United Corporation Ltd,P52.SI,1.53,1.59,1.07,21.86,2026-07-17 06:15:16
-Boustead Singapore Limited,F9D.SI,2.09,2.13,1.05,4.45,2026-07-17 06:15:16
-PC Partner Group Limited,PCT.SI,2.63,2.66,1.02,12.52,2026-07-17 06:15:16
-United Overseas Australia Ltd,EH5.SI,0.595,0.595,1.04,7.44,2026-07-17 06:15:16
-CDL Hospitality Trusts,J85.SI,0.77,0.775,0.98,,2026-07-17 06:15:16
-Geo Energy Resources Limited,RE4.SI,0.54,0.555,0.96,54.0,2026-07-17 06:15:16
-Foundation Healthcare Holdings Limited,FHH.SI,0.715,0.71,0.95,17.88,2026-07-17 06:15:16
-ValueMax Group Limited,T6I.SI,0.93,0.94,0.88,8.45,2026-07-17 06:15:16
-Sasseur Real Estate Investment Trust,CRPU.SI,0.68,0.685,0.86,13.6,2026-07-17 06:15:16
-CSE Global Limited,544.SI,1.16,1.18,0.85,23.2,2026-07-17 06:15:16
-Zheneng Jinjiang Environment Holding Company Limited,BWM.SI,0.6,0.6,0.86,6.0,2026-07-17 06:15:16
-Digital Core REIT,DCRU.SI,0.49,0.495,0.64,12.25,2026-07-17 06:15:16
-Singapore Post Limited,S08.SI,0.355,0.36,0.8,17.75,2026-07-17 06:15:16
-Civmec Limited,P9D.SI,1.52,1.6,0.77,21.71,2026-07-17 06:15:16
-OUE Limited,LJ3.SI,1.0,1.01,0.75,,2026-07-17 06:15:16
-The Straits Trading Company Limited,S20.SI,1.6,1.61,0.78,,2026-07-17 06:15:16
-Nanofilm Technologies International Limited,MZH.SI,1.1,1.15,0.72,55.0,2026-07-17 06:15:16
-Hong Fok Corporation Limited,H30.SI,0.9,0.92,0.72,22.5,2026-07-17 06:15:16
-HRnetGroup Limited,CHZ.SI,0.74,0.74,0.73,14.8,2026-07-17 06:15:16
-Yangzijiang Financial Holding Ltd.,YF8.SI,0.21,0.21,0.73,,2026-07-17 06:15:16
-Stamford Land Corporation Ltd,H07.SI,0.49,0.49,0.73,24.5,2026-07-17 06:15:16
-Oiltek International Limited,HQU.SI,1.58,1.65,0.68,79.0,2026-07-17 06:15:16
-Aspial Lifestyle Limited,5UF.SI,0.345,0.35,0.71,8.62,2026-07-17 06:15:16
-MoneyMax Financial Services Ltd.,5WJ.SI,0.73,0.74,0.7,9.12,2026-07-17 06:15:16
-Aztech Global Ltd.,8AZ.SI,0.84,0.865,0.65,16.8,2026-07-17 06:15:16
-China Sunsine Chemical Holdings Ltd.,QES.SI,0.675,0.68,0.64,8.44,2026-07-17 06:15:16
-China Everbright Water Limited,U9E.SI,0.225,0.225,0.64,4.5,2026-07-17 06:15:16
-VICOM Ltd,WJP.SI,1.79,1.79,0.63,14.92,2026-07-17 06:15:16
-Cortina Holdings Limited,C41.SI,3.65,3.75,0.6,9.36,2026-07-17 06:15:16
-Wee Hur Holdings Ltd.,E3B.SI,0.635,0.66,0.58,9.07,2026-07-17 06:15:16
-Alpha Integrated Real Estate Investment Trust,M1GU.SI,0.515,0.515,0.58,8.58,2026-07-17 06:15:16
-QAF Limited,Q01.SI,0.985,0.985,0.57,14.07,2026-07-17 06:15:16
-Far East Orchard Limited,O10.SI,1.1,1.11,0.54,10.0,2026-07-17 06:15:16
-Hotel Grand Central Limited,H18.SI,0.715,0.715,0.53,,2026-07-17 06:15:16
-Delfi Limited,P34.SI,0.875,0.865,0.53,12.5,2026-07-17 06:15:16
-United Overseas Insurance Limited,U13.SI,8.6,8.62,0.53,16.23,2026-07-17 06:15:16
-Tan Chong International Limited,T15.SI,1.62,1.62,3.31,23.14,2026-07-17 06:15:16
-Samudera Shipping Line Ltd,S56.SI,0.95,0.955,0.51,5.28,2026-07-17 06:15:16
-Q & M Dental Group (Singapore) Limited,QC7.SI,0.545,0.54,0.52,54.5,2026-07-17 06:15:16
-Malaysia Smelting Corporation Berhad,NPW.SI,0.62,0.62,0.52,15.5,2026-07-17 06:15:16
-Marco Polo Marine Ltd.,5LY.SI,0.127,0.129,0.5,6.35,2026-07-17 06:15:16
-Banyan Tree Holdings Limited,B58.SI,0.555,0.57,0.48,11.1,2026-07-17 06:15:16
-Kimly Limited,1D0.SI,0.39,0.395,0.49,2.6,2026-07-17 06:15:16
-Indofood Agri Resources Ltd.,5JS.SI,0.355,0.35,0.5,5.07,2026-07-17 06:15:16
-CNMC Goldmine Holdings Limited,5TP.SI,1.17,1.2,0.47,9.0,2026-07-17 06:15:16
-TSH Resources Berhad,TSH.SI,0.395,0.385,0.49,9.88,2026-07-17 06:15:16
-First Real Estate Investment Trust,AW9U.SI,0.23,0.225,0.49,23.0,2026-07-17 06:15:16
-Valuetronics Holdings Limited,BN2.SI,1.07,1.08,0.44,21.4,2026-07-17 06:15:16
-Nam Cheong Limited,1MZ.SI,1.08,1.09,0.43,4.15,2026-07-17 06:15:16
-SIIC Environment Holdings Ltd.,BHK.SI,0.168,0.168,0.43,3.36,2026-07-17 06:15:16
-Soilbuild Construction Group Ltd.,ZQM.SI,0.635,0.65,0.42,6.35,2026-07-17 06:15:16
-Mewah International Inc.,MV4.SI,0.28,0.28,0.42,5.6,2026-07-17 06:15:16
-Sunpower Group Ltd.,5GD.SI,0.505,0.51,0.41,8.42,2026-07-17 06:15:16
-OKP Holdings Limited,5CF.SI,0.765,0.77,0.41,9.56,2026-07-17 06:15:16
-United Hampshire US Real Estate Investment Trust,ODBU.SI,0.51,0.515,0.31,17.0,2026-07-17 06:15:16
-Ever Glory United Holdings Limited,ZKX.SI,0.795,0.805,0.4,19.88,2026-07-17 06:15:16
-iX Biopharma Ltd.,42C.SI,0.365,0.38,0.39,0.58,2026-07-17 06:15:16
-GSH Corporation Limited,BDX.SI,0.17,0.163,0.41,,2026-07-17 06:15:16
-Metro Holdings Limited,M01.SI,0.46,0.465,0.38,,2026-07-17 06:15:16
-Micro-Mechanics (Holdings) Ltd.,5DD.SI,2.66,2.76,0.37,26.6,2026-07-17 06:15:16
-Bonvests Holdings Limited,B28.SI,0.95,0.95,0.38,19.0,2026-07-17 06:15:16
-Tuan Sing Holdings Limited,T24.SI,0.305,0.305,0.39,10.17,2026-07-17 06:15:16
-Sing Investments & Finance Limited,S35.SI,1.58,1.6,0.37,8.78,2026-07-17 06:15:16
-Helens International Holdings Company Limited,HLS.SI,0.17,0.17,0.22,17.0,2026-07-17 06:15:16
-Global Resource Construction Ltd.,S3N.SI,0.109,0.111,0.37,10.9,2026-07-17 06:15:16
-Yeo Hiap Seng Limited,Y03.SI,0.57,0.57,0.36,19.0,2026-07-17 06:15:16
-International Cement Group Ltd.,KUO.SI,0.061,0.062,0.35,6.1,2026-07-17 06:15:16
-Daiwa House Logistics Trust,DHLU.SI,0.48,0.485,0.34,9.6,2026-07-17 06:15:16
-ASL Marine Holdings Ltd.,A04.SI,0.325,0.33,0.33,10.83,2026-07-17 06:15:16
-Elite UK REIT,MENU.SI,0.53,0.535,,,2026-07-17 06:15:16
-Penguin International Limited,BTM.SI,1.5,1.5,0.33,9.38,2026-07-17 06:15:16
-NSL Ltd,N02.SI,0.91,0.89,0.34,10.11,2026-07-17 06:15:16
-Multi-Chem Limited,AWZ.SI,3.65,3.65,0.33,12.59,2026-07-17 06:15:16
-Aspial Corporation Limited,A30.SI,0.145,0.147,0.32,14.5,2026-07-17 06:15:16
-Oxley Holdings Limited,5UX.SI,0.074,0.076,0.31,,2026-07-17 06:15:16
-Bund Center Investment Ltd,BTE.SI,0.415,0.415,0.31,41.5,2026-07-17 06:15:16
-Azeus Systems Holdings Ltd.,BBW.SI,10.1,10.21,0.3,13.65,2026-07-17 06:15:16
-Hiap Hoe Limited,5JK.SI,0.65,0.65,0.31,10.83,2026-07-17 06:15:16
-Straco Corporation Limited,S85.SI,0.35,0.35,0.3,17.5,2026-07-17 06:15:16
-ISDN Holdings Limited,I07.SI,0.62,0.65,0.28,31.0,2026-07-17 06:15:16
-Prime US REIT,OXMU.SI,0.156,0.157,0.22,7.8,2026-07-17 06:15:16
-GP Industries Limited,G20.SI,0.6,0.6,0.29,0.11,2026-07-17 06:15:16
-Thakral Corporation Ltd,AWI.SI,1.73,1.75,0.26,1.28,2026-07-17 06:15:16
-Hotel Royal Limited,H12.SI,2.19,2.2,0.26,27.38,2026-07-17 06:15:16
-Southern Alliance Mining Ltd.,QNS.SI,0.42,0.41,0.27,,2026-07-17 06:15:16
-IREIT Global,UD1U.SI,0.19,0.192,0.26,,2026-07-17 06:15:16
-Credit Bureau Asia Limited,TCU.SI,1.12,1.12,0.26,22.4,2026-07-17 06:15:16
-JB Foods Limited,BEW.SI,0.74,0.74,0.26,2.47,2026-07-17 06:15:16
-KORE US REIT,CMOU.SI,0.18,0.184,0.19,,2026-07-17 06:15:16
-XMH Holdings Ltd.,BQF.SI,2.25,2.25,0.25,7.76,2026-07-17 06:15:16
-Tai Sin Electric Limited,500.SI,0.52,0.535,0.24,13.0,2026-07-17 06:15:16
-LHN Limited,41O.SI,0.555,0.565,0.24,11.1,2026-07-17 06:15:16
-Tiong Woon Corporation Holding Ltd,BQM.SI,1.04,1.05,0.24,11.56,2026-07-17 06:15:16
-Info-Tech Systems Ltd.,ITS.SI,0.93,0.94,0.24,15.5,2026-07-17 06:15:16
-Avarga Limited,X5N.SI,2.65,2.66,0.27,,2026-07-17 06:15:16
-JEP Holdings Ltd.,1J4.SI,0.53,0.58,0.22,53.0,2026-07-17 06:15:16
-BHG Retail REIT,BMGU.SI,0.46,0.46,0.24,,2026-07-17 06:15:16
-Hafary Holdings Limited,5VS.SI,0.555,0.555,0.24,7.93,2026-07-17 06:15:16
-Lum Chang Creations Limited,LCC.SI,0.375,0.375,0.25,12.5,2026-07-17 06:15:16
-Coliwoo Holdings Limited,W8W.SI,0.495,0.49,0.24,12.38,2026-07-17 06:15:16
-APAC Realty Limited,CLN.SI,0.54,0.545,0.23,10.8,2026-07-17 06:15:16
-PSC Corporation Ltd.,DM0.SI,0.425,0.42,0.23,10.63,2026-07-17 06:15:16
-Chuan Hup Holdings Limited,C33.SI,0.26,0.265,0.22,26.0,2026-07-17 06:15:16
-Sing Holdings Limited,5IC.SI,0.455,0.455,0.23,1.62,2026-07-17 06:15:16
-Nordic Group Limited,MR7.SI,0.54,0.54,0.21,10.8,2026-07-17 06:15:16
-Mermaid Maritime Public Company Limited,DU4.SI,0.112,0.11,0.21,11.2,2026-07-17 06:15:16
-Lum Chang Holdings Limited,L19.SI,0.51,0.51,0.19,10.2,2026-07-17 06:15:16
-KSH Holdings Limited,ER0.SI,0.325,0.325,0.19,32.5,2026-07-17 06:15:16
-Soon Hock Enterprise Holding Limited,SHE.SI,0.595,0.595,0.18,3.97,2026-07-17 06:15:16
-ISEC Healthcare Ltd.,40T.SI,0.31,0.31,0.18,15.5,2026-07-17 06:15:16
-MetaOptics Ltd,9MT.SI,0.55,0.62,0.13,,2026-07-17 06:15:16
-Jumbo Group Limited,42R.SI,0.275,0.275,0.17,27.5,2026-07-17 06:15:16
-Nam Lee Pressed Metal Industries Limited,G0I.SI,0.665,0.67,0.16,6.65,2026-07-17 06:15:16
-Acrophyte Hospitality Trust,XZL.SI,0.22,0.215,0.13,,2026-07-17 06:15:16
-Tat Seng Packaging Group Ltd,T12.SI,0.99,1.02,0.16,9.0,2026-07-17 06:15:16
-17LIVE Group Limited,LVR.SI,0.88,0.88,0.15,,2026-07-17 06:15:16
-Hotung Investment Holdings Limited,BLS.SI,1.61,1.63,0.15,17.89,2026-07-17 06:15:16
-Asian Pay Television Trust,S7OU.SI,0.084,0.084,0.15,8.4,2026-07-17 06:15:16
-Hock Lian Seng Holdings Limited,J2T.SI,0.29,0.29,0.15,9.67,2026-07-17 06:15:16
-EnGro Corporation Limited,S44.SI,1.21,1.22,0.14,8.07,2026-07-17 06:15:16
-Old Chang Kee Ltd.,5ML.SI,1.18,1.18,0.14,14.75,2026-07-17 06:15:16
-InnoTek Limited,M14.SI,0.535,0.55,0.14,53.5,2026-07-17 06:15:16
-HG Metal Manufacturing Limited,BTG.SI,0.51,0.51,0.14,12.75,2026-07-17 06:15:16
-OUE Healthcare Limited,5WA.SI,0.028,0.031,0.12,,2026-07-17 06:15:16
-Kencana Agri Limited,BNE.SI,0.475,0.475,0.14,5.94,2026-07-17 06:15:16
-Grand Banks Yachts Limited,G50.SI,0.73,0.73,0.14,10.43,2026-07-17 06:15:16
-Koh Brothers Group Limited,K75.SI,0.325,0.33,0.13,6.5,2026-07-17 06:15:16
-Del Monte Pacific Limited,D03.SI,0.07,0.07,0.14,2.33,2026-07-17 06:15:16
-Huationg Global Limited,41B.SI,0.69,0.715,0.13,6.27,2026-07-17 06:15:16
-Fortress Minerals Limited,OAJ.SI,0.25,0.25,0.13,8.33,2026-07-17 06:15:16
-Ley Choon Group Holdings Limited,Q0X.SI,0.092,0.086,0.14,9.2,2026-07-17 06:15:16
-Singapura Finance Ltd,S23.SI,0.81,0.815,0.13,13.5,2026-07-17 06:15:16
-Infinity Development Holdings Company Limited,ZBA.SI,0.415,0.415,0.13,6.92,2026-07-17 06:15:16
-Union Gas Holdings Limited,1F2.SI,0.39,0.39,0.12,13.0,2026-07-17 06:15:16
-Singapore Shipping Corporation Limited,S19.SI,0.3,0.3,0.12,6.0,2026-07-17 06:15:16
-Powermatic Data Systems Limited,BCY.SI,3.42,3.4,0.12,9.77,2026-07-17 06:15:16
-Metis Energy Limited,L02.SI,0.036,0.039,0.11,,2026-07-17 06:15:16
-AMTD IDEA Group,HKB.SI,3.49,3.49,1.99,34.9,2026-07-17 06:15:16
-Beng Kuang Marine Limited,BEZ.SI,0.485,0.495,0.15,16.17,2026-07-17 06:15:16
-Manulife US Real Estate Investment Trust,BTOU.SI,0.05,0.05,0.09,,2026-07-17 06:15:16
-Heeton Holdings Limited,5DP.SI,0.235,0.235,0.11,,2026-07-17 06:15:16
-Toku Ltd.,TKU.SI,0.195,0.198,0.11,,2026-07-17 06:15:16
-Willas-Array Electronics (Holdings) Limited,BDR.SI,1.08,1.08,0.11,12.0,2026-07-17 06:15:16
-Hyphens Pharma International Limited,1J5.SI,0.355,0.355,0.11,17.75,2026-07-17 06:15:16
-YHI International Limited,BPF.SI,0.375,0.375,0.11,,2026-07-17 06:15:16
-TeleChoice International Limited,T41.SI,0.24,0.24,0.11,24.0,2026-07-17 06:15:16
-Kingsmen Creatives Ltd.,5MZ.SI,0.54,0.54,0.11,7.71,2026-07-17 06:15:16
-Taka Jewellery Holdings Limited,42L.SI,0.192,0.192,0.11,6.4,2026-07-17 06:15:16
-Pacific Radiance Ltd.,RXS.SI,0.068,0.073,0.1,6.8,2026-07-17 06:15:16
-Resources Global Development Limited,V7R.SI,0.21,0.21,0.1,4.2,2026-07-17 06:15:16
-ProsperCap Corporation Limited,PPC.SI,0.06,0.06,0.1,,2026-07-17 06:15:16
-Choo Chiang Holdings Ltd.,42E.SI,0.455,0.455,0.09,9.1,2026-07-17 06:15:16
-iWOW Technology Limited,NXR.SI,0.3,0.335,0.09,,2026-07-17 06:15:16
-Rex International Holding Limited,5WH.SI,0.069,0.068,0.09,,2026-07-17 06:15:16
-Sinostar PEC Holdings Limited,C9Q.SI,0.096,0.096,0.09,9.6,2026-07-17 06:15:16
-Envictus International Holdings Limited,BQD.SI,0.3,0.3,0.09,10.0,2026-07-17 06:15:16
-Baker Technology Limited,BTP.SI,0.45,0.45,0.09,,2026-07-17 06:15:16
-Vibrant Group Limited,BIP.SI,0.132,0.132,0.09,6.6,2026-07-17 06:15:16
-New Toyo International Holdings Ltd,N08.SI,0.2,0.2,0.09,20.0,2026-07-17 06:15:16
-mDR Limited,Y3D.SI,0.036,0.037,0.08,,2026-07-17 06:15:16
-The Assembly Place Holdings Ltd.,TAP.SI,0.22,0.22,0.08,11.0,2026-07-17 06:15:16
-SUTL Enterprise Limited,BHU.SI,0.94,0.94,0.08,10.44,2026-07-17 06:15:16
-Duty Free International Limited,5SO.SI,0.067,0.067,0.08,6.7,2026-07-17 06:15:16
-ABR Holdings Limited,533.SI,0.395,0.395,0.08,19.75,2026-07-17 06:15:16
-Parkson Retail Asia Limited,O9E.SI,0.117,0.117,0.08,3.9,2026-07-17 06:15:16
-Oceanus Group Limited,579.SI,0.003,0.003,0.08,,2026-07-17 06:15:16
-Astaka Holdings Limited,42S.SI,0.04,0.04,0.07,,2026-07-17 06:15:16
-Zhongmin Baihui Retail Group Ltd.,5SR.SI,0.39,0.39,0.07,13.0,2026-07-17 06:15:16
-First Ship Lease Trust,D8DU.SI,0.042,0.042,0.07,4.2,2026-07-17 06:15:16
-Trek 2000 International Ltd,5AB.SI,0.24,0.245,0.07,12.0,2026-07-17 06:15:16
-SHS Holdings Ltd.,566.SI,0.12,0.12,0.07,,2026-07-17 06:15:16
-BBR Holdings (S) Ltd,KJ5.SI,0.215,0.225,0.07,21.5,2026-07-17 06:15:16
-Uni-Asia Group Limited,CHJ.SI,0.925,0.92,0.07,46.25,2026-07-17 06:15:16
-Fu Yu Corporation Limited,F13.SI,0.094,0.094,0.07,,2026-07-17 06:15:16
-Embracing Future Holdings Limited,8YY.SI,0.041,0.041,0.07,,2026-07-17 06:15:16
-Sunright Limited,S71.SI,0.53,0.565,0.07,,2026-07-17 06:15:16
-Sim Leisure Group Ltd.,URR.SI,0.41,0.41,0.07,5.12,2026-07-17 06:15:16
-Nera Telecommunications Ltd,N01.SI,0.18,0.185,0.07,,2026-07-17 06:15:16
-IFS Capital Limited,I49.SI,0.175,0.175,0.07,17.5,2026-07-17 06:15:16
-Megachem Limited,5DS.SI,0.49,0.49,0.07,16.33,2026-07-17 06:15:16
-Zixin Group Holdings Limited,42W.SI,0.031,0.032,0.06,3.1,2026-07-17 06:15:16
-Yongmao Holdings Limited,BKX.SI,0.72,0.72,0.06,24.0,2026-07-17 06:15:16
-GKE Corporation Limited,595.SI,0.073,0.074,0.06,7.3,2026-07-17 06:15:16
-Sin Heng Heavy Machinery Limited,BKA.SI,0.58,0.58,0.06,11.6,2026-07-17 06:15:16
-Sarine Technologies Ltd.,U77.SI,0.181,0.181,0.06,,2026-07-17 06:15:16
-Medtecs International Corporation Limited,546.SI,0.114,0.112,0.06,,2026-07-17 06:15:16
-HC Surgical Specialists Limited,1B1.SI,0.395,0.395,0.06,6.58,2026-07-17 06:15:16
-Vallianz Holdings Limited,WPC.SI,0.05,0.05,0.06,5.0,2026-07-17 06:15:16
-ISOTeam Ltd.,5WF.SI,0.073,0.075,0.06,7.3,2026-07-17 06:15:16
-Reclaims Global Limited,NEX.SI,0.199,0.2,0.06,0.16,2026-07-17 06:15:16
-Alset International Limited,40V.SI,0.017,0.017,0.06,,2026-07-17 06:15:16
-Lincotrade & Associates Holdings Limited,BFT.SI,0.325,0.325,0.06,10.83,2026-07-17 06:15:16
-LMS Compliance Ltd.,LMS.SI,0.43,0.43,0.06,21.5,2026-07-17 06:15:16
-Hor Kew Corporation Limited,BBP.SI,1.13,1.13,0.06,4.52,2026-07-17 06:15:16
-TA Corporation Ltd,PA3.SI,0.084,0.098,0.05,0.84,2026-07-17 06:15:16
-China Environmental Resources Group Limited,UIX.SI,0.095,0.095,0.05,,2026-07-17 06:15:16
-Octopus (APAC) Holdings Limited,43A.SI,0.049,0.05,0.06,,2026-07-17 06:15:16
-Union Steel Holdings Limited,ZB9.SI,0.485,0.485,0.06,6.93,2026-07-17 06:15:16
-Kim Heng Limited,5G2.SI,0.08,0.08,0.06,,2026-07-17 06:15:16
-Audience Analytics Limited,1AZ.SI,0.235,0.24,0.05,11.75,2026-07-17 06:15:16
-YKGI Limited,YK9.SI,0.134,0.134,0.06,13.4,2026-07-17 06:15:16
-Atlantic Navigation Holdings (Singapore) Limited,5UL.SI,0.11,0.106,0.06,5.5,2026-07-17 06:15:16
-Creative Technology Ltd,C76.SI,0.77,0.78,0.05,,2026-07-17 06:15:16
-Yunnan Energy International Co. Limited,T43.SI,0.083,0.083,0.02,,2026-07-17 06:15:16
-Attika Group Ltd.,53W.SI,0.195,0.2,0.05,19.5,2026-07-17 06:15:16
-Sanli Environmental Limited,1E3.SI,0.158,0.158,0.05,15.8,2026-07-17 06:15:16
-Karin Technology Holdings Limited,K29.SI,0.26,0.25,0.06,,2026-07-17 06:15:16
-Salt Investments Limited,FQ7.SI,0.002,0.002,0.05,,2026-07-17 06:15:16
-Singapore Institute of Advanced Medicine Holdings Ltd.,9G2.SI,0.028,0.029,0.05,,2026-07-17 06:15:16
-KOP Limited,5I1.SI,0.045,0.045,0.05,,2026-07-17 06:15:16
-UG Healthcare Corporation Limited,8K7.SI,0.079,0.079,0.05,,2026-07-17 06:15:16
-MTQ Corporation Limited,M05.SI,0.22,0.22,0.05,,2026-07-17 06:15:16
-A-Sonic Aerospace Limited,BTJ.SI,0.5,0.48,0.05,12.5,2026-07-17 06:15:16
-TIH Limited,T55.SI,0.2,0.2,0.05,5.0,2026-07-17 06:15:16
-World Precision Machinery Limited,B49.SI,0.12,0.12,0.05,,2026-07-17 06:15:16
-Ossia International Limited,O08.SI,0.185,0.185,0.05,6.17,2026-07-17 06:15:16
-Wong Fong Industries Limited,1A1.SI,0.198,0.198,0.05,9.9,2026-07-17 06:15:16
-Amcorp Global Limited,S9B.SI,0.099,0.099,0.04,,2026-07-17 06:15:16
-Skylink Holdings Limited,XZB.SI,0.21,0.21,0.06,,2026-07-17 06:15:16
-Samurai 2K Aerosol Limited,Y8E.SI,0.13,0.13,0.04,6.5,2026-07-17 06:15:16
-Goodland Group Limited,5PC.SI,0.12,0.12,0.04,12.0,2026-07-17 06:15:16
-LHT Holdings Limited,BEI.SI,0.81,0.805,0.04,40.5,2026-07-17 06:15:16
-Chasen Holdings Limited,5NV.SI,0.105,0.11,0.04,5.25,2026-07-17 06:15:16
-Avi-Tech Holdings Limited,1R6.SI,0.245,0.25,0.04,,2026-07-17 06:15:16
-Chemical Industries (Far East) Limited,C05.SI,0.56,0.56,0.04,,2026-07-17 06:15:16
-Jiutian Chemical Group Limited,C8R.SI,0.021,0.021,0.04,,2026-07-17 06:15:16
-TOTM Technologies Limited,42F.SI,0.024,0.024,0.04,,2026-07-17 06:15:16
-Tiong Seng Holdings Limited,BFI.SI,0.09,0.09,0.04,,2026-07-17 06:15:16
-Mencast Holdings Ltd.,5NF.SI,0.086,0.086,0.04,,2026-07-17 06:15:16
-Mooreast Holdings Ltd.,1V3.SI,0.125,0.129,0.04,12.5,2026-07-17 06:15:16
-HL Global Enterprises Limited,AVX.SI,0.415,0.415,0.04,20.75,2026-07-17 06:15:16
-Global Testing Corporation Limited,AYN.SI,1.16,1.16,0.04,7.73,2026-07-17 06:15:16
-Dezign Format Group Limited,UZF.SI,0.193,0.193,0.04,19.3,2026-07-17 06:15:16
-Sitra Holdings (International) Limited,5LE.SI,0.026,0.026,0.04,,2026-07-17 06:15:16
-Hong Lai Huat Group Limited,CTO.SI,0.073,0.08,0.04,2.43,2026-07-17 06:15:16
-Combine Will International Holdings Limited,N0Z.SI,1.18,1.18,0.04,6.21,2026-07-17 06:15:16
-9R Limited,1Y1.SI,0.034,0.034,0.04,,2026-07-17 06:15:16
-Vicplas International Ltd,569.SI,0.073,0.074,0.04,,2026-07-17 06:15:16
-Aedge Group Limited,XVG.SI,0.23,0.23,0.04,23.0,2026-07-17 06:15:16
-Enviro-Hub Holdings Ltd.,L23.SI,0.024,0.024,0.04,,2026-07-17 06:15:16
-Fuji Offset Plates Manufacturing Ltd,508.SI,0.67,0.67,0.04,33.5,2026-07-17 06:15:16
-King Wan Corporation Limited,554.SI,0.045,0.045,0.03,,2026-07-17 06:15:16
-PNE Industries Ltd,BDA.SI,0.41,0.41,0.03,,2026-07-17 06:15:16
-Ascent Bridge Limited,AWG.SI,0.32,0.32,0.03,,2026-07-17 06:15:16
-Kin Global Limited,KIN.SI,0.172,0.176,0.03,8.6,2026-07-17 06:15:16
-Hiap Tong Corporation Ltd.,5PO.SI,0.107,0.108,0.03,10.7,2026-07-17 06:15:16
-Wilton Resources Corporation Limited,5F7.SI,0.013,0.013,0.03,,2026-07-17 06:15:16
-Jawala Inc.,1J7.SI,0.28,0.28,0.03,,2026-07-17 06:15:16
-Cordlife Group Limited,P8A.SI,0.128,0.128,0.03,,2026-07-17 06:15:16
-Alliance Healthcare Group Limited,MIJ.SI,0.158,0.158,0.03,15.8,2026-07-17 06:15:16
-Abundance International Limited,541.SI,0.025,0.025,0.03,,2026-07-17 06:15:16
-Sheffield Green Ltd.,SGR.SI,0.17,0.17,0.03,17.0,2026-07-17 06:15:16
-Medi Lifestyle Limited,Z4D.SI,0.051,0.055,0.03,,2026-07-17 06:15:16
-Hengyang Petrochemical Logistics Limited,5PD.SI,0.15,0.15,0.03,,2026-07-17 06:15:16
-Eneco Energy Limited,R14.SI,0.008,0.008,0.03,,2026-07-17 06:15:16
-Medinex Limited,OTX.SI,0.22,0.22,0.03,11.0,2026-07-17 06:15:16
-OTS Holdings Limited,OTS.SI,0.136,0.136,0.03,,2026-07-17 06:15:16
-MindChamps PreSchool Limited,CNE.SI,0.116,0.116,0.03,0.13,2026-07-17 06:15:16
-Aspen (Group) Holdings Limited,1F3.SI,0.026,0.026,0.03,,2026-07-17 06:15:16
-Federal International (2000) Ltd,BDU.SI,0.2,0.2,0.03,10.0,2026-07-17 06:15:16
-Southern Archipelago Ltd.,A33.SI,0.001,0.001,0.03,,2026-07-17 06:15:16
-Pavillon Holdings Ltd.,596.SI,0.019,0.019,0.03,,2026-07-17 06:15:16
-Courage Investment Group Limited,CIN.SI,0.016,0.016,0.02,,2026-07-17 06:15:16
-Le tree Holdings Limited,E6R.SI,0.003,0.003,0.03,,2026-07-17 06:15:16
-CH Offshore Ltd.,C13.SI,0.012,0.012,0.03,,2026-07-17 06:15:16
-Tye Soon Limited,BFU.SI,0.29,0.29,0.03,7.25,2026-07-17 06:15:16
-Koda Ltd,BJZ.SI,0.3,0.3,0.02,15.0,2026-07-17 06:15:16
-OneApex Limited,5SY.SI,0.295,0.295,0.02,,2026-07-17 06:15:16
-UpHealth Group Limited,GRQ.SI,0.163,0.163,0.02,,2026-07-17 06:15:16
-A-Smart Holdings Ltd.,BQC.SI,0.092,0.091,0.02,,2026-07-17 06:15:16
-Advancer Global Limited,43Q.SI,0.097,0.097,0.02,9.7,2026-07-17 06:15:16
-Casa Holdings Limited,C04.SI,0.114,0.114,0.02,,2026-07-17 06:15:16
-H2G Green Limited,5AI.SI,0.009,0.01,0.02,,2026-07-17 06:15:16
-The Place Holdings Limited,E27.SI,0.004,0.004,0.02,,2026-07-17 06:15:16
-UnUsUaL Limited,1D1.SI,0.021,0.023,0.02,,2026-07-17 06:15:16
-Interra Resources Limited,5GI.SI,0.036,0.036,0.02,3.6,2026-07-17 06:15:16
-Leong Guan Holdings Limited,LGH.SI,0.225,0.225,,0.46,2026-07-17 06:15:16
-AP Oil International Limited,5AU.SI,0.138,0.138,0.02,13.8,2026-07-17 06:15:16
-Khong Guan Limited,K03.SI,0.845,0.845,0.02,,2026-07-17 06:15:16
-Southern Packaging Group Limited,BQP.SI,0.31,0.31,0.02,,2026-07-17 06:15:16
-Brook Crompton Holdings Ltd.,AWC.SI,0.61,0.61,0.02,6.78,2026-07-17 06:15:16
-Soon Lian Holdings Limited,5MD.SI,0.2,0.2,0.02,5.0,2026-07-17 06:15:16
-Hosen Group Ltd.,5EV.SI,0.065,0.065,0.02,6.5,2026-07-17 06:15:16
-Ouhua Energy Holdings Limited,AJ2.SI,0.056,0.056,0.02,,2026-07-17 06:15:16
-ZICO Holdings Inc.,40W.SI,0.05,0.05,0.02,,2026-07-17 06:15:16
-TrickleStar Limited,CYW.SI,0.08,0.086,0.02,,2026-07-17 06:15:16
-Noel Gifts International Ltd,543.SI,0.198,0.198,0.02,19.8,2026-07-17 06:15:16
-Lion Asiapac Limited,BAZ.SI,0.25,0.25,0.02,,2026-07-17 06:15:16
-Khen Energy Limited,YSV.SI,0.074,0.074,0.02,0.25,2026-07-17 06:15:16
-Anchun International Holdings Ltd.,BTX.SI,0.425,0.425,0.02,7.08,2026-07-17 06:15:16
-mm2 Asia Ltd.,1B0.SI,0.003,0.003,0.02,,2026-07-17 06:15:16
-Natural Cool Holdings Limited,5IF.SI,0.078,0.078,0.02,7.8,2026-07-17 06:15:16
-Japan Foods Holding Ltd.,5OI.SI,0.112,0.112,0.02,,2026-07-17 06:15:16
-Accrelist Ltd.,QZG.SI,0.062,0.06,0.02,,2026-07-17 06:15:16
-CDW Holding Limited,BXE.SI,0.085,0.085,0.02,,2026-07-17 06:15:16
-LY Corporation Limited,1H8.SI,0.039,0.039,0.02,,2026-07-17 06:15:16
-Serial Achieva Limited,XHV.SI,0.111,0.111,0.02,,2026-07-17 06:15:16
-Mun Siong Engineering Limited,MF6.SI,0.032,0.032,0.02,,2026-07-17 06:15:16
-AnnAik Limited,A52.SI,0.064,0.064,0.02,,2026-07-17 06:15:16
-Prospera Global Limited,5HH.SI,0.021,0.022,0.02,,2026-07-17 06:15:16
-Fuxing China Group Limited,AWK.SI,0.9,0.9,0.02,4.09,2026-07-17 06:15:16
-Pan Hong Holdings Group Limited,P36.SI,0.035,0.035,0.02,,2026-07-17 06:15:16
-Asia-Pacific Strategic Investments Limited,5RA.SI,0.001,0.001,0.02,,2026-07-17 06:15:16
-Jason Marine Group Limited,5PF.SI,0.17,0.17,0.02,0.13,2026-07-17 06:15:16
-Polaris Ltd.,5BI.SI,0.001,0.001,0.02,,2026-07-17 06:15:16
-Leader Environmental Technologies Limited,LS9.SI,0.011,0.011,0.02,,2026-07-17 06:15:16
-Kori Holdings Limited,5VC.SI,0.17,0.17,0.02,17.0,2026-07-17 06:15:16
-British and Malayan Holdings Limited,CJN.SI,1.92,1.92,0.02,,2026-07-17 06:15:16
-Yamada Green Resources Limited,BJV.SI,0.092,0.092,0.02,,2026-07-17 06:15:16
-Capital World Limited,1D5.SI,0.001,0.001,0.02,,2026-07-17 06:15:16
-Dasin Retail Trust,CEDU.SI,0.02,0.02,0.02,,2026-07-17 06:15:16
-Lion-OCBC Hang Seng TECH ETF,HST.SI,0.745,0.776,,,2026-07-17 06:15:16
-Lion-Phillip S-REIT ETF,CLR.SI,0.841,0.836,,,2026-07-17 06:15:16
+Tencent Holdings Limited,HTCD.SI,7.6,7.95,68.41,1.65,2026-07-17 09:10:56
+HSBC Holdings plc,HSHD.SI,5.14,5.17,88.14,3.27,2026-07-17 09:10:56
+Alibaba Group Holding Limited,HBBD.SI,3.7,3.85,70.95,3.52,2026-07-17 09:10:56
+PetroChina Company Limited,HPCD.SI,3.13,3.13,572.86,19.56,2026-07-17 09:10:56
+Bank of China Limited,HBND.SI,0.835,0.835,269.05,5.96,2026-07-17 09:10:56
+"Contemporary Amperex Technology Co., Limited",HCCD.SI,3.31,3.39,15.31,0.99,2026-07-17 09:10:56
+China Mobile Limited,HCMD.SI,2.62,2.62,,,2026-07-17 09:10:56
+DBS Group Holdings Ltd,D05.SI,71.97,72.48,204.22,18.79,2026-07-17 09:10:56
+"Ping An Insurance (Group) Company of China, Ltd.",HPAD.SI,4.48,4.49,81.12,3.25,2026-07-17 09:10:56
+BYD Company Limited,HYDD.SI,1.45,1.47,13.22,2.54,2026-07-17 09:10:56
+Semiconductor Manufacturing International Corporation,HSMD.SI,2.22,2.48,,,2026-07-17 09:10:56
+Delta Electronics (Thailand) Public Company Limited,TDED.SI,11.49,11.69,143.32,127.67,2026-07-17 09:10:56
+Oversea-Chinese Banking Corporation Limited,O39.SI,28.61,28.78,128.45,17.34,2026-07-17 09:10:56
+Xiaomi Corporation,HXXD.SI,2.2,2.26,,,2026-07-17 09:10:56
+Meituan,HMTD.SI,2.74,2.9,,,2026-07-17 09:10:56
+United Overseas Bank Limited,U11.SI,42.44,43.5,70.1,15.43,2026-07-17 09:10:56
+Singapore Telecommunications Limited,Z77.SI,4.43,4.38,73.15,13.03,2026-07-17 09:10:56
+PT Bank Central Asia Tbk,IBKD.SI,0.94,0.88,115.5,31.33,2026-07-17 09:10:56
+"JD.com, Inc.",HJDD.SI,1.91,1.92,5.16,2.17,2026-07-17 09:10:56
+"Baidu, Inc.",HBUD.SI,1.75,1.82,,,2026-07-17 09:10:56
+Prudential plc,K6S.SI,14.2,14.2,35.38,9.22,2026-07-17 09:10:56
+Zijin Gold International Company Limited,HZGD.SI,1.59,1.7,,,2026-07-17 09:10:56
+Advanced Info Service Public Company Limited,TADD.SI,1.46,1.43,43.42,20.86,2026-07-17 09:10:56
+Pop Mart International Group Limited,HPPD.SI,1.37,1.37,,,2026-07-17 09:10:56
+Gulf Development Public Company Limited,TGUD.SI,2.42,2.42,,,2026-07-17 09:10:56
+Airports of Thailand Public Company Limited,TATD.SI,2.45,2.45,35.0,49.0,2026-07-17 09:10:56
+Geely Automobile Holdings Limited,HGMD.SI,1.52,1.6,,,2026-07-17 09:10:56
+Kuaishou Technology,HKUD.SI,1.43,1.55,,,2026-07-17 09:10:56
+Singapore Technologies Engineering Ltd,S63.SI,10.41,10.7,32.48,69.4,2026-07-17 09:10:56
+Singapore Exchange Limited,S68.SI,23.81,23.86,25.44,39.03,2026-07-17 09:10:56
+Wilmar International Limited,F34.SI,3.87,3.9,24.16,13.34,2026-07-17 09:10:56
+Singapore Airlines Limited,C6L.SI,7.62,7.61,24.01,20.05,2026-07-17 09:10:56
+IHH Healthcare Berhad,Q0F.SI,2.84,2.78,25.8,35.5,2026-07-17 09:10:56
+Jardine Matheson Holdings Limited,J36.SI,62.99,62.25,18.53,16.71,2026-07-17 09:10:56
+PTT Exploration and Production Public Company Limited,TPED.SI,5.57,5.56,22.11,10.31,2026-07-17 09:10:56
+Kasikornbank Public Company Limited,TKKD.SI,8.99,8.87,21.3,10.96,2026-07-17 09:10:56
+Hongkong Land Holdings Limited,H78.SI,7.59,7.54,16.2,13.09,2026-07-17 09:10:56
+Keppel Ltd.,BN4.SI,11.27,11.46,20.31,20.12,2026-07-17 09:10:56
+CapitaLand Integrated Commercial Trust,C38U.SI,2.46,2.45,19.38,18.92,2026-07-17 09:10:56
+Great Eastern Holdings Limited,G07.SI,19.3,19.53,18.27,15.32,2026-07-17 09:10:56
+Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,ITKD.SI,0.96,0.92,,,2026-07-17 09:10:56
+NIO Inc.,NIO.SI,4.83,5.1,12.29,,2026-07-17 09:10:56
+CP ALL Public Company Limited,TCPD.SI,1.8,1.82,16.04,13.85,2026-07-17 09:10:56
+Yangzijiang Shipbuilding (Holdings) Ltd.,SO7.SI,17.94,17.94,74.83,9.15,2026-07-17 09:10:56
+CapitaLand Investment Limited,9CI.SI,2.49,2.53,12.43,83.0,2026-07-17 09:10:56
+CapitaLand Ascendas REIT,A17U.SI,2.52,2.48,12.54,14.76,2026-07-17 09:10:56
+Bangkok Dusit Medical Services Public Company Limited,TBDD.SI,1.51,1.49,,,2026-07-17 09:10:56
+The Siam Cement Public Company Limited,TSCD.SI,0.98,0.985,2.92,19.6,2026-07-17 09:10:56
+Horizon Robotics,HHZD.SI,0.705,0.755,10.27,,2026-07-17 09:10:56
+Thai Beverage Public Company Limited,Y92.SI,0.455,0.44,11.43,11.38,2026-07-17 09:10:56
+"Laopu Gold Co., Ltd.",HLPD.SI,1.16,1.23,0.21,0.21,2026-07-17 09:10:56
+Jardine Cycle & Carriage Limited,C07.SI,27.02,27.16,10.68,8.29,2026-07-17 09:10:56
+Sembcorp Industries Ltd,U96.SI,5.36,5.48,9.54,9.75,2026-07-17 09:10:56
+UOL Group Limited,U14.SI,9.58,9.68,8.11,16.81,2026-07-17 09:10:56
+Genting Singapore Limited,G13.SI,0.63,0.63,7.62,21.0,2026-07-17 09:10:56
+Ubtech Robotics Corp Ltd,HUUD.SI,1.35,1.46,,,2026-07-17 09:10:56
+Mapletree Pan Asia Commercial Trust,N2IU.SI,1.34,1.33,7.08,26.8,2026-07-17 09:10:56
+City Developments Limited,C09.SI,7.69,7.79,6.87,11.31,2026-07-17 09:10:56
+Charoen Pokphand Foods Public Company Limited,TPFD.SI,1.7,1.7,13.07,17.0,2026-07-17 09:10:56
+SATS Ltd.,S58.SI,4.62,4.59,6.87,24.32,2026-07-17 09:10:56
+Seatrium Limited,5E2.SI,1.99,2.0,6.74,22.11,2026-07-17 09:10:56
+DFI Retail Group Holdings Limited,D01.SI,3.58,3.62,4.85,21.06,2026-07-17 09:10:56
+Mapletree Logistics Trust,M44U.SI,1.21,1.21,6.2,24.2,2026-07-17 09:10:56
+Keppel DC REIT,AJBU.SI,2.33,2.32,5.7,12.26,2026-07-17 09:10:56
+PT Indofood CBP Sukses Makmur Tbk,IICD.SI,0.945,0.945,11.02,15.75,2026-07-17 09:10:56
+Mapletree Industrial Trust,ME8U.SI,1.94,1.92,5.54,27.71,2026-07-17 09:10:56
+First Resources Limited,EB5.SI,3.42,3.46,5.29,11.4,2026-07-17 09:10:56
+Emperador Inc.,EMI.SI,0.34,0.34,5.33,34.0,2026-07-17 09:10:56
+China Medical System Holdings Limited,8A8.SI,2.17,2.17,5.28,18.08,2026-07-17 09:10:56
+Tianjin Pharmaceutical Da Ren Tang Group Corporation Limited,T14.SI,2.79,2.84,3.6,6.64,2026-07-17 09:10:56
+Sheng Siong Group Ltd,OV8.SI,3.27,3.3,4.92,32.7,2026-07-17 09:10:56
+Venture Corporation Limited,V03.SI,16.07,16.38,4.62,20.34,2026-07-17 09:10:56
+Singapore Land Group Limited,U06.SI,3.16,3.21,4.53,16.63,2026-07-17 09:10:56
+Frasers Centrepoint Trust,J69U.SI,2.26,2.25,4.61,20.55,2026-07-17 09:10:56
+Olam Group Limited,VC2.SI,1.2,1.2,4.53,30.0,2026-07-17 09:10:56
+Suntec Real Estate Investment Trust,T82U.SI,1.52,1.51,4.49,30.4,2026-07-17 09:10:56
+Keppel REIT,K71U.SI,0.88,0.88,4.37,8.0,2026-07-17 09:10:56
+UOB-Kay Hian Holdings Limited,U10.SI,4.2,4.28,4.13,16.8,2026-07-17 09:10:56
+Frasers Property Limited,TQ5.SI,1.06,1.06,4.16,26.5,2026-07-17 09:10:56
+NetLink NBN Trust,CJLU.SI,0.975,0.98,3.8,48.75,2026-07-17 09:10:56
+Haw Par Corporation Limited,H02.SI,16.31,16.76,3.61,13.59,2026-07-17 09:10:56
+SIA Engineering Company Limited,S59.SI,3.27,3.3,3.67,21.8,2026-07-17 09:10:56
+Frasers Logistics & Commercial Trust,BUOU.SI,0.975,0.965,3.71,16.25,2026-07-17 09:10:56
+"AvePoint, Inc.",AVP.SI,16.8,16.9,3.56,64.62,2026-07-17 09:10:56
+Golden Agri-Resources Ltd,E5H.SI,0.28,0.275,3.55,7.0,2026-07-17 09:10:56
+CapitaLand Ascott Trust,HMN.SI,0.905,0.9,3.48,11.31,2026-07-17 09:10:56
+Keppel Infrastructure Trust,A7RU.SI,0.525,0.53,3.2,26.25,2026-07-17 09:10:56
+Bumitama Agri Ltd.,P8Z.SI,1.85,1.81,3.21,15.42,2026-07-17 09:10:56
+AEM Holdings Ltd.,XWA.SI,4.1,4.1,1.29,102.5,2026-07-17 09:10:56
+iFAST Corporation Ltd.,AIY.SI,9.55,9.54,2.91,27.29,2026-07-17 09:10:56
+ComfortDelGro Corporation Limited,C52.SI,1.33,1.34,2.88,12.09,2026-07-17 09:10:56
+Parkway Life Real Estate Investment Trust,C2PU.SI,4.18,4.14,2.73,18.17,2026-07-17 09:10:56
+GuocoLand Limited,F17.SI,2.23,2.26,2.57,22.3,2026-07-17 09:10:56
+Hotel Properties Limited,H15.SI,4.57,4.6,2.43,,2026-07-17 09:10:56
+Shangri-La Asia Limited,S07.SI,4.28,4.28,15.24,17.12,2026-07-17 09:10:56
+UMS Integration Limited,558.SI,2.43,2.55,2.16,48.6,2026-07-17 09:10:56
+Hutchison Port Holdings Trust,NS8U.SI,0.186,0.187,1.62,18.6,2026-07-17 09:10:56
+Hong Leong Asia Ltd.,H22.SI,2.6,2.62,2.08,17.33,2026-07-17 09:10:56
+"Fraser and Neave, Limited",F99.SI,1.44,1.43,2.1,14.4,2026-07-17 09:10:56
+Yangzijiang Maritime Development Ltd.,8YZ.SI,0.57,0.57,1.99,11.4,2026-07-17 09:10:56
+Centurion Accommodation REIT,8C8U.SI,1.14,1.14,1.97,22.8,2026-07-17 09:10:56
+Lendlease Global Commercial REIT,JYEU.SI,0.575,0.57,1.91,19.17,2026-07-17 09:10:56
+ESR-REIT,9A4U.SI,2.29,2.3,1.84,229.0,2026-07-17 09:10:56
+StarHub Ltd,CC3.SI,1.02,1.02,1.76,25.5,2026-07-17 09:10:56
+The Hour Glass Limited,AGS.SI,2.72,2.74,1.74,9.71,2026-07-17 09:10:56
+Raffles Medical Group Ltd,BSL.SI,0.945,0.95,1.74,23.62,2026-07-17 09:10:56
+UltraGreen.ai Limited,ULG.SI,1.21,1.21,1.33,9.31,2026-07-17 09:10:56
+Top Glove Corporation Bhd.,BVA.SI,0.205,0.21,1.64,20.5,2026-07-17 09:10:56
+CapitaLand India Trust,CY6U.SI,1.02,1.05,1.52,4.25,2026-07-17 09:10:56
+Food Empire Holdings Limited,F03.SI,2.28,2.33,1.51,32.57,2026-07-17 09:10:56
+China Aviation Oil (Singapore) Corporation Ltd,G92.SI,1.61,1.65,1.38,9.47,2026-07-17 09:10:56
+Thomson Medical Group Limited,A50.SI,0.052,0.053,1.38,,2026-07-17 09:10:56
+Centurion Corporation Limited,OU8.SI,1.61,1.65,1.35,11.5,2026-07-17 09:10:56
+AIMS APAC REIT,O5RU.SI,1.66,1.67,1.37,12.77,2026-07-17 09:10:56
+Ho Bee Land Limited,H13.SI,2.04,2.03,1.35,13.6,2026-07-17 09:10:56
+PropNex Limited,OYY.SI,1.77,1.8,1.31,17.7,2026-07-17 09:10:56
+Pacific Century Regional Developments Limited,P15.SI,0.49,0.495,1.3,,2026-07-17 09:10:56
+Stoneweg Europe Stapled Trust,SET.SI,1.6,1.58,0.9,11.43,2026-07-17 09:10:56
+Riverstone Holdings Limited,AP4.SI,0.86,0.865,1.27,21.5,2026-07-17 09:10:56
+Starhill Global Real Estate Investment Trust,P40U.SI,0.545,0.55,1.26,9.08,2026-07-17 09:10:56
+Bukit Sembawang Estates Limited,B61.SI,4.87,4.91,1.26,9.74,2026-07-17 09:10:56
+Yanlord Land Group Limited,Z25.SI,0.64,0.655,1.24,21.33,2026-07-17 09:10:56
+Far East Hospitality Trust,Q5T.SI,0.58,0.585,1.19,58.0,2026-07-17 09:10:56
+Wing Tai Holdings Limited,W05.SI,1.58,1.57,1.21,,2026-07-17 09:10:56
+Frencken Group Limited,E28.SI,2.64,2.74,1.13,29.33,2026-07-17 09:10:56
+CapitaLand China Trust,AU8U.SI,0.65,0.66,1.14,,2026-07-17 09:10:56
+SBS Transit Ltd,S61.SI,3.64,3.69,1.14,18.2,2026-07-17 09:10:56
+Sri Trang Gloves (Thailand) Public Company Limited,STG.SI,0.37,0.37,1.21,,2026-07-17 09:10:56
+BRC Asia Limited,BEC.SI,4.15,4.17,1.14,10.92,2026-07-17 09:10:56
+UI Boustead Real Estate Investment Trust,UIBU.SI,0.835,0.835,1.14,16.7,2026-07-17 09:10:56
+Sri Trang Agro-Industry Public Company Limited,NC2.SI,0.695,0.7,1.07,,2026-07-17 09:10:56
+Hong Leong Finance Limited,S41.SI,2.5,2.49,1.12,17.86,2026-07-17 09:10:56
+Pan-United Corporation Ltd,P52.SI,1.53,1.59,1.07,21.86,2026-07-17 09:10:56
+United Overseas Australia Ltd,EH5.SI,0.6,0.595,1.05,7.5,2026-07-17 09:10:56
+Boustead Singapore Limited,F9D.SI,2.08,2.13,1.05,4.43,2026-07-17 09:10:56
+PC Partner Group Limited,PCT.SI,2.61,2.66,1.01,12.43,2026-07-17 09:10:56
+CDL Hospitality Trusts,J85.SI,0.77,0.775,0.98,,2026-07-17 09:10:56
+Geo Energy Resources Limited,RE4.SI,0.54,0.555,0.96,54.0,2026-07-17 09:10:56
+Foundation Healthcare Holdings Limited,FHH.SI,0.72,0.71,0.96,18.0,2026-07-17 09:10:56
+ValueMax Group Limited,T6I.SI,0.935,0.94,0.89,8.5,2026-07-17 09:10:56
+Sasseur Real Estate Investment Trust,CRPU.SI,0.685,0.685,0.87,13.7,2026-07-17 09:10:56
+CSE Global Limited,544.SI,1.14,1.18,0.83,22.8,2026-07-17 09:10:56
+Zheneng Jinjiang Environment Holding Company Limited,BWM.SI,0.6,0.6,0.86,6.0,2026-07-17 09:10:56
+Digital Core REIT,DCRU.SI,0.49,0.495,0.64,12.25,2026-07-17 09:10:56
+Singapore Post Limited,S08.SI,0.355,0.36,0.8,17.75,2026-07-17 09:10:56
+Civmec Limited,P9D.SI,1.57,1.6,0.8,22.43,2026-07-17 09:10:56
+OUE Limited,LJ3.SI,1.01,1.01,0.76,,2026-07-17 09:10:56
+The Straits Trading Company Limited,S20.SI,1.6,1.61,0.78,,2026-07-17 09:10:56
+Nanofilm Technologies International Limited,MZH.SI,1.09,1.15,0.71,54.5,2026-07-17 09:10:56
+Hong Fok Corporation Limited,H30.SI,0.89,0.92,0.71,22.25,2026-07-17 09:10:56
+HRnetGroup Limited,CHZ.SI,0.74,0.74,0.73,14.8,2026-07-17 09:10:56
+Yangzijiang Financial Holding Ltd.,YF8.SI,0.205,0.21,0.72,,2026-07-17 09:10:56
+Stamford Land Corporation Ltd,H07.SI,0.495,0.49,0.73,24.75,2026-07-17 09:10:56
+Oiltek International Limited,HQU.SI,1.56,1.65,0.67,78.0,2026-07-17 09:10:56
+Aspial Lifestyle Limited,5UF.SI,0.34,0.35,0.7,8.5,2026-07-17 09:10:56
+MoneyMax Financial Services Ltd.,5WJ.SI,0.735,0.74,0.7,9.19,2026-07-17 09:10:56
+Aztech Global Ltd.,8AZ.SI,0.84,0.865,0.65,16.8,2026-07-17 09:10:56
+China Sunsine Chemical Holdings Ltd.,QES.SI,0.67,0.68,0.64,8.38,2026-07-17 09:10:56
+China Everbright Water Limited,U9E.SI,0.225,0.225,0.64,4.5,2026-07-17 09:10:56
+VICOM Ltd,WJP.SI,1.79,1.79,0.63,14.92,2026-07-17 09:10:56
+Cortina Holdings Limited,C41.SI,3.65,3.75,0.6,9.36,2026-07-17 09:10:56
+Wee Hur Holdings Ltd.,E3B.SI,0.64,0.66,0.59,9.14,2026-07-17 09:10:56
+Alpha Integrated Real Estate Investment Trust,M1GU.SI,0.515,0.515,0.58,8.58,2026-07-17 09:10:56
+QAF Limited,Q01.SI,0.985,0.985,0.57,14.07,2026-07-17 09:10:56
+Far East Orchard Limited,O10.SI,1.1,1.11,0.54,10.0,2026-07-17 09:10:56
+Hotel Grand Central Limited,H18.SI,0.725,0.715,0.54,,2026-07-17 09:10:56
+Delfi Limited,P34.SI,0.875,0.865,0.53,12.5,2026-07-17 09:10:56
+United Overseas Insurance Limited,U13.SI,8.6,8.62,0.53,16.23,2026-07-17 09:10:56
+Tan Chong International Limited,T15.SI,1.62,1.62,3.31,23.14,2026-07-17 09:10:56
+Samudera Shipping Line Ltd,S56.SI,0.95,0.955,0.51,5.28,2026-07-17 09:10:56
+Q & M Dental Group (Singapore) Limited,QC7.SI,0.545,0.54,0.52,54.5,2026-07-17 09:10:56
+Malaysia Smelting Corporation Berhad,NPW.SI,0.62,0.62,0.52,15.5,2026-07-17 09:10:56
+Marco Polo Marine Ltd.,5LY.SI,0.127,0.129,0.5,6.35,2026-07-17 09:10:56
+Banyan Tree Holdings Limited,B58.SI,0.555,0.57,0.48,11.1,2026-07-17 09:10:56
+Kimly Limited,1D0.SI,0.395,0.395,0.49,2.63,2026-07-17 09:10:56
+Indofood Agri Resources Ltd.,5JS.SI,0.355,0.35,0.5,5.07,2026-07-17 09:10:56
+CNMC Goldmine Holdings Limited,5TP.SI,1.18,1.2,0.48,9.08,2026-07-17 09:10:56
+TSH Resources Berhad,TSH.SI,0.395,0.385,0.49,9.88,2026-07-17 09:10:56
+First Real Estate Investment Trust,AW9U.SI,0.23,0.225,0.49,23.0,2026-07-17 09:10:56
+Valuetronics Holdings Limited,BN2.SI,1.09,1.08,0.45,21.8,2026-07-17 09:10:56
+Nam Cheong Limited,1MZ.SI,1.1,1.09,0.44,4.23,2026-07-17 09:10:56
+SIIC Environment Holdings Ltd.,BHK.SI,0.164,0.168,0.42,3.28,2026-07-17 09:10:56
+Soilbuild Construction Group Ltd.,ZQM.SI,0.635,0.65,0.42,6.35,2026-07-17 09:10:56
+Mewah International Inc.,MV4.SI,0.295,0.28,0.44,5.9,2026-07-17 09:10:56
+Sunpower Group Ltd.,5GD.SI,0.51,0.51,0.42,8.5,2026-07-17 09:10:56
+iX Biopharma Ltd.,42C.SI,0.37,0.38,0.4,0.59,2026-07-17 09:10:56
+OKP Holdings Limited,5CF.SI,0.745,0.77,0.4,9.31,2026-07-17 09:10:56
+United Hampshire US Real Estate Investment Trust,ODBU.SI,0.51,0.515,0.31,17.0,2026-07-17 09:10:56
+Ever Glory United Holdings Limited,ZKX.SI,0.795,0.805,0.4,19.88,2026-07-17 09:10:56
+GSH Corporation Limited,BDX.SI,0.17,0.163,0.41,,2026-07-17 09:10:56
+Metro Holdings Limited,M01.SI,0.455,0.465,0.38,,2026-07-17 09:10:56
+Micro-Mechanics (Holdings) Ltd.,5DD.SI,2.65,2.76,0.37,26.5,2026-07-17 09:10:56
+Bonvests Holdings Limited,B28.SI,0.95,0.95,0.38,19.0,2026-07-17 09:10:56
+Tuan Sing Holdings Limited,T24.SI,0.305,0.305,0.39,10.17,2026-07-17 09:10:56
+Sing Investments & Finance Limited,S35.SI,1.58,1.6,0.37,8.78,2026-07-17 09:10:56
+Helens International Holdings Company Limited,HLS.SI,0.17,0.17,0.22,17.0,2026-07-17 09:10:56
+Global Resource Construction Ltd.,S3N.SI,0.109,0.111,0.37,10.9,2026-07-17 09:10:56
+Yeo Hiap Seng Limited,Y03.SI,0.57,0.57,0.36,19.0,2026-07-17 09:10:56
+International Cement Group Ltd.,KUO.SI,0.061,0.062,0.35,6.1,2026-07-17 09:10:56
+Daiwa House Logistics Trust,DHLU.SI,0.485,0.485,0.34,9.7,2026-07-17 09:10:56
+ASL Marine Holdings Ltd.,A04.SI,0.335,0.33,0.34,11.17,2026-07-17 09:10:56
+Elite UK REIT,MENU.SI,0.535,0.535,,,2026-07-17 09:10:56
+Penguin International Limited,BTM.SI,1.58,1.5,0.35,9.88,2026-07-17 09:10:56
+NSL Ltd,N02.SI,0.9,0.89,0.34,10.0,2026-07-17 09:10:56
+Multi-Chem Limited,AWZ.SI,3.72,3.65,0.34,12.83,2026-07-17 09:10:56
+Aspial Corporation Limited,A30.SI,0.142,0.147,0.31,14.2,2026-07-17 09:10:56
+Oxley Holdings Limited,5UX.SI,0.074,0.076,0.31,,2026-07-17 09:10:56
+Bund Center Investment Ltd,BTE.SI,0.415,0.415,0.31,41.5,2026-07-17 09:10:56
+Azeus Systems Holdings Ltd.,BBW.SI,10.1,10.21,0.3,13.65,2026-07-17 09:10:56
+Hiap Hoe Limited,5JK.SI,0.65,0.65,0.31,10.83,2026-07-17 09:10:56
+Straco Corporation Limited,S85.SI,0.35,0.35,0.3,17.5,2026-07-17 09:10:56
+ISDN Holdings Limited,I07.SI,0.63,0.65,0.29,31.5,2026-07-17 09:10:56
+Prime US REIT,OXMU.SI,0.155,0.157,0.22,7.75,2026-07-17 09:10:56
+GP Industries Limited,G20.SI,0.6,0.6,0.29,0.11,2026-07-17 09:10:56
+Thakral Corporation Ltd,AWI.SI,1.71,1.75,0.26,1.27,2026-07-17 09:10:56
+Hotel Royal Limited,H12.SI,2.19,2.2,0.26,27.38,2026-07-17 09:10:56
+Southern Alliance Mining Ltd.,QNS.SI,0.42,0.41,0.27,,2026-07-17 09:10:56
+IREIT Global,UD1U.SI,0.191,0.192,0.26,,2026-07-17 09:10:56
+Credit Bureau Asia Limited,TCU.SI,1.12,1.12,0.26,22.4,2026-07-17 09:10:56
+JB Foods Limited,BEW.SI,0.74,0.74,0.26,2.47,2026-07-17 09:10:56
+KORE US REIT,CMOU.SI,0.179,0.184,0.19,,2026-07-17 09:10:56
+XMH Holdings Ltd.,BQF.SI,2.25,2.25,0.25,7.76,2026-07-17 09:10:56
+Tai Sin Electric Limited,500.SI,0.53,0.535,0.24,13.25,2026-07-17 09:10:56
+LHN Limited,41O.SI,0.565,0.565,0.24,11.1,2026-07-17 09:10:56
+Tiong Woon Corporation Holding Ltd,BQM.SI,1.03,1.05,0.24,11.44,2026-07-17 09:10:56
+Info-Tech Systems Ltd.,ITS.SI,0.925,0.94,0.24,15.42,2026-07-17 09:10:56
+Avarga Limited,X5N.SI,2.66,2.66,0.28,,2026-07-17 09:10:56
+JEP Holdings Ltd.,1J4.SI,0.53,0.58,0.22,53.0,2026-07-17 09:10:56
+BHG Retail REIT,BMGU.SI,0.46,0.46,0.24,,2026-07-17 09:10:56
+Hafary Holdings Limited,5VS.SI,0.555,0.555,0.24,7.93,2026-07-17 09:10:56
+Lum Chang Creations Limited,LCC.SI,0.38,0.375,0.25,12.67,2026-07-17 09:10:56
+Coliwoo Holdings Limited,W8W.SI,0.495,0.49,0.24,12.38,2026-07-17 09:10:56
+APAC Realty Limited,CLN.SI,0.55,0.545,0.24,11.0,2026-07-17 09:10:56
+PSC Corporation Ltd.,DM0.SI,0.425,0.42,0.23,10.63,2026-07-17 09:10:56
+Chuan Hup Holdings Limited,C33.SI,0.265,0.265,0.23,26.5,2026-07-17 09:10:56
+Sing Holdings Limited,5IC.SI,0.45,0.455,0.23,1.61,2026-07-17 09:10:56
+Nordic Group Limited,MR7.SI,0.54,0.54,0.21,10.8,2026-07-17 09:10:56
+Mermaid Maritime Public Company Limited,DU4.SI,0.104,0.11,0.2,10.4,2026-07-17 09:10:56
+Lum Chang Holdings Limited,L19.SI,0.51,0.51,0.19,10.2,2026-07-17 09:10:56
+KSH Holdings Limited,ER0.SI,0.31,0.325,0.18,31.0,2026-07-17 09:10:56
+Soon Hock Enterprise Holding Limited,SHE.SI,0.59,0.595,0.18,3.93,2026-07-17 09:10:56
+ISEC Healthcare Ltd.,40T.SI,0.31,0.31,0.18,15.5,2026-07-17 09:10:56
+MetaOptics Ltd,9MT.SI,0.565,0.62,0.14,,2026-07-17 09:10:56
+Jumbo Group Limited,42R.SI,0.275,0.275,0.17,27.5,2026-07-17 09:10:56
+Nam Lee Pressed Metal Industries Limited,G0I.SI,0.665,0.67,0.16,6.65,2026-07-17 09:10:56
+Acrophyte Hospitality Trust,XZL.SI,0.225,0.215,0.13,,2026-07-17 09:10:56
+Tat Seng Packaging Group Ltd,T12.SI,0.98,1.02,0.15,8.91,2026-07-17 09:10:56
+17LIVE Group Limited,LVR.SI,0.88,0.88,0.15,,2026-07-17 09:10:56
+Hotung Investment Holdings Limited,BLS.SI,1.61,1.63,0.15,17.89,2026-07-17 09:10:56
+Asian Pay Television Trust,S7OU.SI,0.086,0.084,0.16,8.6,2026-07-17 09:10:56
+Hock Lian Seng Holdings Limited,J2T.SI,0.29,0.29,0.15,9.67,2026-07-17 09:10:56
+EnGro Corporation Limited,S44.SI,1.21,1.22,0.14,8.07,2026-07-17 09:10:56
+Old Chang Kee Ltd.,5ML.SI,1.18,1.18,0.14,14.75,2026-07-17 09:10:56
+InnoTek Limited,M14.SI,0.535,0.55,0.14,53.5,2026-07-17 09:10:56
+HG Metal Manufacturing Limited,BTG.SI,0.51,0.51,0.14,12.75,2026-07-17 09:10:56
+OUE Healthcare Limited,5WA.SI,0.03,0.031,0.13,,2026-07-17 09:10:56
+Kencana Agri Limited,BNE.SI,0.475,0.475,0.14,5.94,2026-07-17 09:10:56
+Grand Banks Yachts Limited,G50.SI,0.73,0.73,0.14,10.43,2026-07-17 09:10:56
+Koh Brothers Group Limited,K75.SI,0.325,0.33,0.13,6.5,2026-07-17 09:10:56
+Del Monte Pacific Limited,D03.SI,0.07,0.07,0.14,2.33,2026-07-17 09:10:56
+Huationg Global Limited,41B.SI,0.7,0.715,0.13,6.36,2026-07-17 09:10:56
+Fortress Minerals Limited,OAJ.SI,0.25,0.25,0.13,8.33,2026-07-17 09:10:56
+Ley Choon Group Holdings Limited,Q0X.SI,0.091,0.086,0.14,9.1,2026-07-17 09:10:56
+Singapura Finance Ltd,S23.SI,0.81,0.815,0.13,13.5,2026-07-17 09:10:56
+Infinity Development Holdings Company Limited,ZBA.SI,0.415,0.415,0.13,6.92,2026-07-17 09:10:56
+Union Gas Holdings Limited,1F2.SI,0.39,0.39,0.12,13.0,2026-07-17 09:10:56
+Singapore Shipping Corporation Limited,S19.SI,0.3,0.3,0.12,6.0,2026-07-17 09:10:56
+Powermatic Data Systems Limited,BCY.SI,3.42,3.4,0.12,9.77,2026-07-17 09:10:56
+Metis Energy Limited,L02.SI,0.039,0.039,0.12,,2026-07-17 09:10:56
+AMTD IDEA Group,HKB.SI,3.49,3.49,1.99,34.9,2026-07-17 09:10:56
+Beng Kuang Marine Limited,BEZ.SI,0.485,0.495,0.15,16.17,2026-07-17 09:10:56
+Manulife US Real Estate Investment Trust,BTOU.SI,0.05,0.05,0.09,,2026-07-17 09:10:56
+Heeton Holdings Limited,5DP.SI,0.235,0.235,0.11,,2026-07-17 09:10:56
+Toku Ltd.,TKU.SI,0.194,0.198,0.11,,2026-07-17 09:10:56
+Willas-Array Electronics (Holdings) Limited,BDR.SI,1.08,1.08,0.11,12.0,2026-07-17 09:10:56
+Hyphens Pharma International Limited,1J5.SI,0.35,0.355,0.11,17.5,2026-07-17 09:10:56
+YHI International Limited,BPF.SI,0.375,0.375,0.11,,2026-07-17 09:10:56
+TeleChoice International Limited,T41.SI,0.24,0.24,0.11,24.0,2026-07-17 09:10:56
+Kingsmen Creatives Ltd.,5MZ.SI,0.54,0.54,0.11,7.71,2026-07-17 09:10:56
+Taka Jewellery Holdings Limited,42L.SI,0.192,0.192,0.11,6.4,2026-07-17 09:10:56
+Pacific Radiance Ltd.,RXS.SI,0.072,0.073,0.11,7.2,2026-07-17 09:10:56
+Resources Global Development Limited,V7R.SI,0.22,0.21,0.11,4.4,2026-07-17 09:10:56
+ProsperCap Corporation Limited,PPC.SI,0.06,0.06,0.1,,2026-07-17 09:10:56
+Choo Chiang Holdings Ltd.,42E.SI,0.455,0.455,0.09,9.1,2026-07-17 09:10:56
+iWOW Technology Limited,NXR.SI,0.3,0.335,0.09,,2026-07-17 09:10:56
+Rex International Holding Limited,5WH.SI,0.068,0.068,0.09,,2026-07-17 09:10:56
+Sinostar PEC Holdings Limited,C9Q.SI,0.096,0.096,0.09,9.6,2026-07-17 09:10:56
+Envictus International Holdings Limited,BQD.SI,0.355,0.3,0.11,11.83,2026-07-17 09:10:56
+Baker Technology Limited,BTP.SI,0.45,0.45,0.09,,2026-07-17 09:10:56
+Vibrant Group Limited,BIP.SI,0.132,0.132,0.09,6.6,2026-07-17 09:10:56
+New Toyo International Holdings Ltd,N08.SI,0.2,0.2,0.09,20.0,2026-07-17 09:10:56
+mDR Limited,Y3D.SI,0.036,0.037,0.08,,2026-07-17 09:10:56
+The Assembly Place Holdings Ltd.,TAP.SI,0.225,0.22,0.09,11.25,2026-07-17 09:10:56
+SUTL Enterprise Limited,BHU.SI,0.92,0.94,0.08,10.22,2026-07-17 09:10:56
+Duty Free International Limited,5SO.SI,0.067,0.067,0.08,6.7,2026-07-17 09:10:56
+ABR Holdings Limited,533.SI,0.395,0.395,0.08,19.75,2026-07-17 09:10:56
+Parkson Retail Asia Limited,O9E.SI,0.117,0.117,0.08,3.9,2026-07-17 09:10:56
+Oceanus Group Limited,579.SI,0.003,0.003,0.08,,2026-07-17 09:10:56
+Astaka Holdings Limited,42S.SI,0.04,0.04,0.07,,2026-07-17 09:10:56
+Zhongmin Baihui Retail Group Ltd.,5SR.SI,0.39,0.39,0.07,13.0,2026-07-17 09:10:56
+First Ship Lease Trust,D8DU.SI,0.042,0.042,0.07,4.2,2026-07-17 09:10:56
+Trek 2000 International Ltd,5AB.SI,0.245,0.245,0.07,12.25,2026-07-17 09:10:56
+SHS Holdings Ltd.,566.SI,0.12,0.12,0.07,,2026-07-17 09:10:56
+BBR Holdings (S) Ltd,KJ5.SI,0.22,0.225,0.07,22.0,2026-07-17 09:10:56
+Uni-Asia Group Limited,CHJ.SI,0.925,0.92,0.07,46.25,2026-07-17 09:10:56
+Fu Yu Corporation Limited,F13.SI,0.095,0.094,0.07,,2026-07-17 09:10:56
+Embracing Future Holdings Limited,8YY.SI,0.04,0.041,0.07,,2026-07-17 09:10:56
+Sunright Limited,S71.SI,0.565,0.565,0.07,,2026-07-17 09:10:56
+Sim Leisure Group Ltd.,URR.SI,0.41,0.41,0.07,5.12,2026-07-17 09:10:56
+Nera Telecommunications Ltd,N01.SI,0.183,0.185,0.07,,2026-07-17 09:10:56
+IFS Capital Limited,I49.SI,0.175,0.175,0.07,17.5,2026-07-17 09:10:56
+Megachem Limited,5DS.SI,0.49,0.49,0.07,16.33,2026-07-17 09:10:56
+Zixin Group Holdings Limited,42W.SI,0.031,0.032,0.06,3.1,2026-07-17 09:10:56
+Yongmao Holdings Limited,BKX.SI,0.72,0.72,0.06,24.0,2026-07-17 09:10:56
+GKE Corporation Limited,595.SI,0.073,0.074,0.06,7.3,2026-07-17 09:10:56
+Sin Heng Heavy Machinery Limited,BKA.SI,0.58,0.58,0.06,11.6,2026-07-17 09:10:56
+Sarine Technologies Ltd.,U77.SI,0.188,0.181,0.06,,2026-07-17 09:10:56
+Medtecs International Corporation Limited,546.SI,0.114,0.112,0.06,,2026-07-17 09:10:56
+HC Surgical Specialists Limited,1B1.SI,0.395,0.395,0.06,6.58,2026-07-17 09:10:56
+ISOTeam Ltd.,5WF.SI,0.075,0.075,0.06,7.5,2026-07-17 09:10:56
+Reclaims Global Limited,NEX.SI,0.198,0.2,0.06,0.16,2026-07-17 09:10:56
+Alset International Limited,40V.SI,0.017,0.017,0.06,,2026-07-17 09:10:56
+Lincotrade & Associates Holdings Limited,BFT.SI,0.325,0.325,0.06,10.83,2026-07-17 09:10:56
+LMS Compliance Ltd.,LMS.SI,0.425,0.43,0.06,21.25,2026-07-17 09:10:56
+Hor Kew Corporation Limited,BBP.SI,1.13,1.13,0.06,4.52,2026-07-17 09:10:56
+TA Corporation Ltd,PA3.SI,0.1,0.098,0.06,1.0,2026-07-17 09:10:56
+China Environmental Resources Group Limited,UIX.SI,0.095,0.095,0.05,,2026-07-17 09:10:56
+Octopus (APAC) Holdings Limited,43A.SI,0.049,0.05,0.06,,2026-07-17 09:10:56
+Union Steel Holdings Limited,ZB9.SI,0.485,0.485,0.06,6.93,2026-07-17 09:10:56
+Kim Heng Limited,5G2.SI,0.082,0.08,0.06,,2026-07-17 09:10:56
+Audience Analytics Limited,1AZ.SI,0.235,0.24,0.05,11.75,2026-07-17 09:10:56
+YKGI Limited,YK9.SI,0.134,0.134,0.06,13.4,2026-07-17 09:10:56
+Creative Technology Ltd,C76.SI,0.755,0.78,0.05,,2026-07-17 09:10:56
+Yunnan Energy International Co. Limited,T43.SI,0.083,0.083,0.02,,2026-07-17 09:10:56
+Attika Group Ltd.,53W.SI,0.195,0.2,0.05,19.5,2026-07-17 09:10:56
+Sanli Environmental Limited,1E3.SI,0.158,0.158,0.05,15.8,2026-07-17 09:10:56
+Karin Technology Holdings Limited,K29.SI,0.26,0.25,0.06,,2026-07-17 09:10:56
+Salt Investments Limited,FQ7.SI,0.003,0.002,0.08,,2026-07-17 09:10:56
+Singapore Institute of Advanced Medicine Holdings Ltd.,9G2.SI,0.027,0.029,0.05,,2026-07-17 09:10:56
+KOP Limited,5I1.SI,0.045,0.045,0.05,,2026-07-17 09:10:56
+UG Healthcare Corporation Limited,8K7.SI,0.079,0.079,0.05,,2026-07-17 09:10:56
+MTQ Corporation Limited,M05.SI,0.215,0.22,0.05,,2026-07-17 09:10:56
+A-Sonic Aerospace Limited,BTJ.SI,0.5,0.48,0.05,12.5,2026-07-17 09:10:56
+TIH Limited,T55.SI,0.2,0.2,0.05,5.0,2026-07-17 09:10:56
+World Precision Machinery Limited,B49.SI,0.12,0.12,0.05,,2026-07-17 09:10:56
+Ossia International Limited,O08.SI,0.185,0.185,0.05,6.17,2026-07-17 09:10:56
+Wong Fong Industries Limited,1A1.SI,0.198,0.198,0.05,9.9,2026-07-17 09:10:56
+Amcorp Global Limited,S9B.SI,0.099,0.099,0.04,,2026-07-17 09:10:56
+Skylink Holdings Limited,XZB.SI,0.21,0.21,0.06,,2026-07-17 09:10:56
+Samurai 2K Aerosol Limited,Y8E.SI,0.13,0.13,0.04,6.5,2026-07-17 09:10:56
+Goodland Group Limited,5PC.SI,0.12,0.12,0.04,12.0,2026-07-17 09:10:56
+LHT Holdings Limited,BEI.SI,0.81,0.805,0.04,40.5,2026-07-17 09:10:56
+Chasen Holdings Limited,5NV.SI,0.104,0.11,0.04,5.2,2026-07-17 09:10:56
+Avi-Tech Holdings Limited,1R6.SI,0.245,0.25,0.04,,2026-07-17 09:10:56
+Chemical Industries (Far East) Limited,C05.SI,0.53,0.56,0.04,,2026-07-17 09:10:56
+Jiutian Chemical Group Limited,C8R.SI,0.021,0.021,0.04,,2026-07-17 09:10:56
+TOTM Technologies Limited,42F.SI,0.024,0.024,0.04,,2026-07-17 09:10:56
+Tiong Seng Holdings Limited,BFI.SI,0.09,0.09,0.04,,2026-07-17 09:10:56
+Mencast Holdings Ltd.,5NF.SI,0.083,0.086,0.04,,2026-07-17 09:10:56
+Mooreast Holdings Ltd.,1V3.SI,0.125,0.129,0.04,12.5,2026-07-17 09:10:56
+Global Testing Corporation Limited,AYN.SI,1.16,1.16,0.04,7.73,2026-07-17 09:10:56
+Dezign Format Group Limited,UZF.SI,0.193,0.193,0.04,19.3,2026-07-17 09:10:56
+Sitra Holdings (International) Limited,5LE.SI,0.026,0.026,0.04,,2026-07-17 09:10:56
+Hong Lai Huat Group Limited,CTO.SI,0.073,0.08,0.04,2.43,2026-07-17 09:10:56
+Combine Will International Holdings Limited,N0Z.SI,1.18,1.18,0.04,6.21,2026-07-17 09:10:56
+9R Limited,1Y1.SI,0.034,0.034,0.04,,2026-07-17 09:10:56
+Vicplas International Ltd,569.SI,0.073,0.074,0.04,,2026-07-17 09:10:56
+Aedge Group Limited,XVG.SI,0.23,0.23,0.04,23.0,2026-07-17 09:10:56
+Enviro-Hub Holdings Ltd.,L23.SI,0.023,0.024,0.04,,2026-07-17 09:10:56
+Fuji Offset Plates Manufacturing Ltd,508.SI,0.67,0.67,0.04,33.5,2026-07-17 09:10:56
+King Wan Corporation Limited,554.SI,0.045,0.045,0.03,,2026-07-17 09:10:56
+PNE Industries Ltd,BDA.SI,0.41,0.41,0.03,,2026-07-17 09:10:56
+Ascent Bridge Limited,AWG.SI,0.305,0.32,0.03,,2026-07-17 09:10:56
+Kin Global Limited,KIN.SI,0.175,0.176,0.03,8.75,2026-07-17 09:10:56
+Hiap Tong Corporation Ltd.,5PO.SI,0.107,0.108,0.03,10.7,2026-07-17 09:10:56
+Wilton Resources Corporation Limited,5F7.SI,0.013,0.013,0.03,,2026-07-17 09:10:56
+Jawala Inc.,1J7.SI,0.28,0.28,0.03,,2026-07-17 09:10:56
+Cordlife Group Limited,P8A.SI,0.127,0.128,0.03,,2026-07-17 09:10:56
+Alliance Healthcare Group Limited,MIJ.SI,0.158,0.158,0.03,15.8,2026-07-17 09:10:56
+Sheffield Green Ltd.,SGR.SI,0.17,0.17,0.03,17.0,2026-07-17 09:10:56
+Medi Lifestyle Limited,Z4D.SI,0.051,0.055,0.03,,2026-07-17 09:10:56
+Hengyang Petrochemical Logistics Limited,5PD.SI,0.15,0.15,0.03,,2026-07-17 09:10:56
+Eneco Energy Limited,R14.SI,0.008,0.008,0.03,,2026-07-17 09:10:56
+Medinex Limited,OTX.SI,0.22,0.22,0.03,11.0,2026-07-17 09:10:56
+OTS Holdings Limited,OTS.SI,0.136,0.136,0.03,,2026-07-17 09:10:56
+MindChamps PreSchool Limited,CNE.SI,0.116,0.116,0.03,0.13,2026-07-17 09:10:56
+Aspen (Group) Holdings Limited,1F3.SI,0.026,0.026,0.03,,2026-07-17 09:10:56
+Federal International (2000) Ltd,BDU.SI,0.2,0.2,0.03,10.0,2026-07-17 09:10:56
+Southern Archipelago Ltd.,A33.SI,0.001,0.001,0.03,,2026-07-17 09:10:56
+Pavillon Holdings Ltd.,596.SI,0.019,0.019,0.03,,2026-07-17 09:10:56
+Courage Investment Group Limited,CIN.SI,0.016,0.016,0.02,,2026-07-17 09:10:56
+Le tree Holdings Limited,E6R.SI,0.003,0.003,0.03,,2026-07-17 09:10:56
+CH Offshore Ltd.,C13.SI,0.012,0.012,0.03,,2026-07-17 09:10:56
+Tye Soon Limited,BFU.SI,0.29,0.29,0.03,7.25,2026-07-17 09:10:56
+Koda Ltd,BJZ.SI,0.3,0.3,0.02,15.0,2026-07-17 09:10:56
+OneApex Limited,5SY.SI,0.295,0.295,0.02,,2026-07-17 09:10:56
+UpHealth Group Limited,GRQ.SI,0.163,0.163,0.02,,2026-07-17 09:10:56
+A-Smart Holdings Ltd.,BQC.SI,0.095,0.091,0.03,,2026-07-17 09:10:56
+Advancer Global Limited,43Q.SI,0.097,0.097,0.02,9.7,2026-07-17 09:10:56
+Casa Holdings Limited,C04.SI,0.114,0.114,0.02,,2026-07-17 09:10:56
+H2G Green Limited,5AI.SI,0.01,0.01,0.02,,2026-07-17 09:10:56
+UnUsUaL Limited,1D1.SI,0.022,0.023,0.02,,2026-07-17 09:10:56
+Interra Resources Limited,5GI.SI,0.036,0.036,0.02,3.6,2026-07-17 09:10:56
+AP Oil International Limited,5AU.SI,0.138,0.138,0.02,13.8,2026-07-17 09:10:56
+Khong Guan Limited,K03.SI,0.845,0.845,0.02,,2026-07-17 09:10:56
+Southern Packaging Group Limited,BQP.SI,0.31,0.31,0.02,,2026-07-17 09:10:56
+Brook Crompton Holdings Ltd.,AWC.SI,0.61,0.61,0.02,6.78,2026-07-17 09:10:56
+Soon Lian Holdings Limited,5MD.SI,0.2,0.2,0.02,5.0,2026-07-17 09:10:56
+Hosen Group Ltd.,5EV.SI,0.065,0.065,0.02,6.5,2026-07-17 09:10:56
+Ouhua Energy Holdings Limited,AJ2.SI,0.056,0.056,0.02,,2026-07-17 09:10:56
+ZICO Holdings Inc.,40W.SI,0.05,0.05,0.02,,2026-07-17 09:10:56
+TrickleStar Limited,CYW.SI,0.082,0.086,0.02,,2026-07-17 09:10:56
+Noel Gifts International Ltd,543.SI,0.198,0.198,0.02,19.8,2026-07-17 09:10:56
+Lion Asiapac Limited,BAZ.SI,0.25,0.25,0.02,,2026-07-17 09:10:56
+Khen Energy Limited,YSV.SI,0.074,0.074,0.02,0.25,2026-07-17 09:10:56
+Anchun International Holdings Ltd.,BTX.SI,0.425,0.425,0.02,7.08,2026-07-17 09:10:56
+mm2 Asia Ltd.,1B0.SI,0.003,0.003,0.02,,2026-07-17 09:10:56
+Natural Cool Holdings Limited,5IF.SI,0.078,0.078,0.02,7.8,2026-07-17 09:10:56
+Japan Foods Holding Ltd.,5OI.SI,0.112,0.112,0.02,,2026-07-17 09:10:56
+Accrelist Ltd.,QZG.SI,0.062,0.06,0.02,,2026-07-17 09:10:56
+CDW Holding Limited,BXE.SI,0.085,0.085,0.02,,2026-07-17 09:10:56
+LY Corporation Limited,1H8.SI,0.039,0.039,0.02,,2026-07-17 09:10:56
+Serial Achieva Limited,XHV.SI,0.111,0.111,0.02,,2026-07-17 09:10:56
+AnnAik Limited,A52.SI,0.064,0.064,0.02,,2026-07-17 09:10:56
+Fuxing China Group Limited,AWK.SI,0.9,0.9,0.02,4.09,2026-07-17 09:10:56
+Pan Hong Holdings Group Limited,P36.SI,0.035,0.035,0.02,,2026-07-17 09:10:56
+Asia-Pacific Strategic Investments Limited,5RA.SI,0.001,0.001,0.02,,2026-07-17 09:10:56
+Jason Marine Group Limited,5PF.SI,0.17,0.17,0.02,0.13,2026-07-17 09:10:56
+Polaris Ltd.,5BI.SI,0.001,0.001,0.02,,2026-07-17 09:10:56
+Leader Environmental Technologies Limited,LS9.SI,0.011,0.011,0.02,,2026-07-17 09:10:56
+Kori Holdings Limited,5VC.SI,0.17,0.17,0.02,17.0,2026-07-17 09:10:56
+British and Malayan Holdings Limited,CJN.SI,1.92,1.92,0.02,,2026-07-17 09:10:56
+Yamada Green Resources Limited,BJV.SI,0.092,0.092,0.02,,2026-07-17 09:10:56
+Capital World Limited,1D5.SI,0.001,0.001,0.02,,2026-07-17 09:10:56
+Dasin Retail Trust,CEDU.SI,0.02,0.02,0.02,,2026-07-17 09:10:56
+Lion-OCBC Hang Seng TECH ETF,HST.SI,0.747,0.776,,,2026-07-17 09:10:56
+Lion-Phillip S-REIT ETF,CLR.SI,0.84,0.836,,,2026-07-17 09:10:56
