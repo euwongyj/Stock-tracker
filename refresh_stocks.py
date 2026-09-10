@@ -1,6 +1,8 @@
 import yfinance as yf
 import pandas as pd
 import os
+import requests
+from io import StringIO
 from datetime import datetime, timedelta
 
 # ----------------------------
@@ -17,9 +19,14 @@ def get_sgx_stocks():
             return dict(zip(df["Name"], df["Ticker"]))
 
     print("🌐 Refreshing SGX stock list...")
-
     url = "https://stockanalysis.com/list/singapore-exchange/"
-    df = pd.read_html(url)[0]
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                       "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    }
+    response = requests.get(url, headers=headers, timeout=10)
+    response.raise_for_status()
+    df = pd.read_html(StringIO(response.text))[0]
 
     df["Ticker"] = df["Symbol"].astype(str) + ".SI"
 
