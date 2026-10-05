@@ -51,7 +51,7 @@ EXTRA_STOCKS = {
 
 STOCKS.update(EXTRA_STOCKS)
 
-print(f"📋 Loaded {len(STOCKS)} SGX stocks + ETFs"
+print(f"📋 Loaded {len(STOCKS)} SGX stocks + ETFs")
 
 # ----------------------------
 # FETCH DATA (YAHOO FINANCE)
