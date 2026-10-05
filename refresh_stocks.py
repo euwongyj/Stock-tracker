@@ -43,14 +43,15 @@ STOCKS = get_sgx_stocks()
 # ----------------------------
 # ADD MISSING ETFS (MANUAL OVERRIDE)
 # ----------------------------
-ETF_EXTRA = {
+EXTRA_STOCKS = {
     "Olam Group": "VC2.SI",
     "Lion-OCBC Hang Seng TECH ETF": "HST.SI",
     "Lion-Phillip S-REIT ETF": "CLR.SI"
 }
 
-STOCKS.update(ETF_EXTRA)
-print(f"📋 Loaded {len(STOCKS)} SGX stocks + ETFS")
+STOCKS.update(EXTRA_STOCKS)
+
+print(f"📋 Loaded {len(STOCKS)} SGX stocks + ETFs"
 
 # ----------------------------
 # FETCH DATA (YAHOO FINANCE)
