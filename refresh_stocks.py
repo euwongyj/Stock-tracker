@@ -72,7 +72,7 @@ for name, ticker in STOCKS.items():
         mktcap = info.get("marketCap")
         pe = info.get("trailingPE")
 
-                data.append([
+        data.append([
             name,
             ticker,
             price,
@@ -85,6 +85,7 @@ for name, ticker in STOCKS.items():
 
     except Exception as e:
         print(f"❌ {name} ({ticker}) — {e}")
+
         data.append([
             name,
             ticker,
@@ -93,8 +94,6 @@ for name, ticker in STOCKS.items():
             None,
             None
         ])
-
-# ----------------------------
 # EXPORT CSV
 # ----------------------------
 df = pd.DataFrame(
