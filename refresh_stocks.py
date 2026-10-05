@@ -78,7 +78,7 @@ for name, ticker in STOCKS.items():
             price,
             prev,
             round(mktcap / 1e9, 2) if mktcap else None,
-            round(pe, 2) if pe else None
+            float(pe) if pe else None
         ])
 
         print(f"✅ {name} ({ticker}) — {price}")
