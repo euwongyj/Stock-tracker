@@ -44,7 +44,7 @@ STOCKS = get_sgx_stocks()
 # ADD MISSING ETFS (MANUAL OVERRIDE)
 # ----------------------------
 EXTRA_STOCKS = {
-    "Olam Group": "VC2.SI",
+    "Olam Group Limited": "VC2.SI",
     "Lion-OCBC Hang Seng TECH ETF": "HST.SI",
     "Lion-Phillip S-REIT ETF": "CLR.SI"
 }
