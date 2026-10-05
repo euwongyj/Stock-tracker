@@ -50,6 +50,7 @@ EXTRA_STOCKS = {
 }
 
 STOCKS.update(EXTRA_STOCKS)
+print("Olam Group Limited:", STOCKS.get("Olam Group Limited"))
 
 print(f"📋 Loaded {len(STOCKS)} SGX stocks + ETFs")
 
@@ -83,7 +84,15 @@ for name, ticker in STOCKS.items():
         print(f"✅ {name} ({ticker}) — {price}")
 
     except Exception as e:
-        print(f"❌ {name} ({ticker}) — {e}")
+    print(f"❌ {name} ({ticker}) — {e}")
+    data.append([
+        name,
+        ticker,
+        None,
+        None,
+        None,
+        None
+    ])
 
 # ----------------------------
 # EXPORT CSV
